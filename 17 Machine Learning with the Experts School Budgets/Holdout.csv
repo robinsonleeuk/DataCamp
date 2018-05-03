@@ -1,0 +1,1001 @@
+,FTE,Facility_or_Department,Function_Description,Fund_Description,Job_Title_Description,Location_Description,Object_Description,Position_Extra,Program_Description,SubFund_Description,Sub_Object_Description,Text_1,Text_2,Text_3,Text_4,Total
+0,nan,49: 'Transportation Department',49: 'Transportation',49: 'General Operating Fund',"49: 'TRANSPORTATION,BUS DRIVERS,REG'",49: 'Unallocated',49: 'Extra Duty Pay/Overtime For Support Personnel',49: 'BUS DRIVER',49: 'Undistributed',49: 'Operations',49: 'Extra Duty Pay/Overtime For Support Personnel',49: 'OVERTIME',49: nan,49: nan,49: 'transportation - Second Runs',415.43
+1,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,'Physical Education',nan,nan,nan,nan,999.5
+2,nan,nan,'NON-PROJECT',nan,"'Manager, Food Service II '",nan,'SALARIES FOR OVERTIME',"'CRAFTS, TRADES, AND SERVICES'",'FOOD PREPARATION/SERVING','FOOD SERVICE FUND',nan,'FOOD SERVICES OPERATIONS','FOOD SERVICES','Regular',nan,6.19176
+3,nan,nan,'INSTRUCTION','General Fund',nan,nan,'PURCHASE OF EQUIPMENT-OTHER THAN BUSES AND COMPUTE',nan,'VOCATIONAL LABORATORY PROGRAM 9-12','VOCATIONAL LABORATORY PROGRAM 9-12',nan,nan,nan,nan,nan,-0.39
+4,nan,nan,'Other Community Services *','Title I - Disadvantaged Children/Targeted Assistance',nan,nan,'Other Travel/Meeting Expense',nan,nan,'Community Services','Travel Mileage/Meeting Expense *','TITLE I - PARENT INVOLVEM',nan,nan,nan,-149.78
+5,nan,nan,'Elementary','Title I - Disadvantaged Children/Targeted Assistance',nan,nan,'Supplies and Materials',nan,nan,'Regular Instruction','Supplies And Materials','TITLE I SCHOOLWIDE',nan,nan,nan,841.84
+6,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'School ',"'Water,Wastewater, Sanitation'",nan,'Undistributed',nan,'General',nan,nan,nan,nan,11915.45
+7,0,nan,'INST STAFF TRAINING SVCS      ','GENERAL FUND                  ','SUB TEACHER ALL               ','School ','OTHER PERSONAL SERVICES       ',nan,nan,nan,nan,nan,nan,nan,nan,80.95
+8,0.5,nan,'Instruction','General Fund','T-EL KIN ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,26762.3522
+9,nan,nan,nan,'LOCAL FUND',nan,nan,'PURCHASES - EQUIPMENT AND MACHINERY',"'PURCHASED ASSETS, MINOR EQUIP & RENTAL'",'INSTRUCTIONAL PROGRAMS','LOCAL',nan,nan,'GENERAL EDUCATION',nan,nan,999.94
+10,nan,nan,'EMPLOYEE RETIREMENT',nan,'Nurse ','SPECIAL EDUCATION','RETIREMENT CONTRIB.','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,1126.26
+11,0.65,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','DATA MGMT I','Office of Program Evaluation','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,36757.12282
+12,nan,nan,'BASIC (FEFP K-12)             ','GENERAL FUND                  ',"'TEACHER, FIRST                '",'School ','SUPPLIES                      ',nan,nan,nan,nan,'TEACHER LEAD                  ',nan,nan,nan,184.06
+13,0,nan,'PUPIL TRANSPORTATION SERVICES ','GENERAL FUND                  ','BUS DRIVER                    ','TRANSPORTATION                ','WORKSHOP PARTICIPANT          ',nan,nan,nan,nan,nan,nan,nan,nan,15.018
+14,1,nan,'Student Transportation','General Fund','BUS DRIVER','Transportation Office','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,34460.48637
+15,nan,nan,'Instruction And Curriculum Development Services *','Special Trust',nan,nan,'Purchased Services',nan,nan,'Support Services - Instructional Staff','Purchased Services','-  ALL CITY',nan,nan,nan,10000.08
+16,nan,nan,'Instruction','Title I- Part A',nan,'School ',nan,nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,1000.78
+17,nan,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund',nan,'Chief Performance Officer','Miscellaneous Contracted Srvcs',nan,'Undistributed',nan,'General',nan,nan,nan,nan,0.93
+18,0.14565004,nan,'NON-PROJECT',nan,'Nurse ','SCHOOL NURSE SERVICES','SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','NURSING SERVICES','GENERAL FUND',nan,'STUDENTS','SCHOOL NURSE SERVICES','n/a',nan,8250.040174
+19,1,nan,'Instruction','General Fund','OCCUP THER','Special Education AH/VH','Professional Salaries',nan,'Special Education',nan,'Occupation Therapist',nan,nan,nan,nan,79825.0152
+20,1,nan,'BASIC (FEFP K-12)             ','GENERAL FUND                  ',"'TEACHER, FIRST                '",'School ','CLASSROOM TEACHER             ',nan,nan,nan,nan,nan,nan,nan,nan,44912.75109
+21,nan,nan,'Instruction','General Fund',nan,'Substitute','Extra Duty/Overtime',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1.26
+22,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'School ','Equipment Maintenance Repairs',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1562.38
+23,nan,nan,'NON-PROJECT',nan,'Teacher Secondary (Middle) ',nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL K-8 EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,960.43
+24,nan,nan,'NON-PROJECT',nan,'Speech Language Pathologst ','TEACHER LEARNING & LEADERSHIP','ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','GENERAL FUND',nan,'INSTRUCTIONAL STAFF','TEACHER LEARNING & LEADERSHIP','n/a',nan,463.29552
+25,nan,nan,'Curriculum & Instructional Staff Development','Title I- Part A',nan,'School ','Reading Materials including Library Books',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,3500.74
+26,nan,nan,'NON-PROJECT',nan,"'Teacher, Secondary (High) '",nan,'TEACHER COVERAGE FOR TEACHER','PROFESSIONAL-INSTRUCTIONAL','GENERAL HIGH SCHOOL EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Turnaround',nan,440.59024
+27,1,nan,'Instruction','General Fund','T-HS MATH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,53438.29022
+28,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,'Science',nan,nan,nan,nan,99.73
+29,0.5,nan,'Instruction','Student Activity Account','TCHR ASST','School ','Salaries for Support Personnel',nan,'Basic Educational Services',nan,'Expend Activity Funded',nan,nan,nan,nan,14687.28652
+30,0,nan,'PUPIL TRANSPORTATION SERVICES ','GENERAL FUND                  ',nan,'TRANSPORTATION                ','GASOLINE                      ',nan,nan,nan,nan,'TRANSPORTATION                ',nan,nan,nan,161405.372
+31,nan,nan,'Curriculum & Instructional Staff Development','IDEA-B Formula',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'Special Education',nan,'Cycle  (used for grants)',nan,nan,nan,nan,-0.15
+32,nan,nan,'EMPLOYEE RETIREMENT',nan,'Extended Day Kinder Asst ',nan,'RETIREMENT CONTRIB.','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,207.52
+33,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','COUNS- HS','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,61081.45067
+34,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,'Band',nan,nan,nan,nan,3475.12
+35,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'High School Allotment',nan,'General',nan,nan,nan,nan,13862.26773
+36,1,nan,nan,'General Fund','Bus Driver','Transportation',nan,'BUS DRIVER','PUPIL TRANSPORTATION',nan,nan,nan,nan,nan,nan,42126.08
+37,1,nan,'Instruction','General Fund','T-EL 2ND ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,65926.64944
+38,nan,nan,'SPECIAL PROGRAM FUNDING',nan,"'Teacher, Elementary '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,436.39
+39,nan,nan,'NON-PROJECT',nan,'(blank)','OPPORTUNITY SCHOOL','GENERAL SUPPLIES','UNDESIGNATED','ITEMGB - TRADE AND INDUSTRIAL ED','ITEMGB - STATE GDPG FUND',nan,'EDUCATION FOR ADULTS','ADULT VOC ED OPPORTUNITY','Alternative',nan,20976.69
+40,0.5,nan,nan,'General Fund','Occupational Therapist',nan,nan,'OCCUPATIONAL THERAPIST ','SPECIAL EDUCATION CATEGORY V',nan,nan,nan,nan,nan,nan,22309.215
+41,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'Office of Facilities','Misc Operating Expenses',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1000.16
+42,nan,nan,'Instruction','General Fund',nan,'School ','Substitute Teachers',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,58043.92198
+43,0,nan,'INSTRUCTIONAL MEDIA SERVICES  ','GENERAL FUND                  ','SUB TEACHER ALL               ','School ','OTHER PERSONAL SERVICES       ',nan,nan,nan,nan,nan,nan,nan,nan,153.07
+44,nan,nan,'Instruction','Title I- Part A',nan,'School ','General Supplies',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,8586.64
+45,0.025,nan,nan,nan,'Aide (Afterschool)','OFC COM & ED PROG-AFTER SCHOOL AIDES',nan,nan,nan,"'SUMMER ED, ARTS & SPORTS - SEAS'",nan,nan,'AFTERSCHOOL PROGRAMS',nan,nan,1031.94284
+46,nan,'All Campus Payroll','Instruction','General Operating Fund','TEACHER SUBSTITUTE POOL','School ','Salaries And Wages For Substitute Professionals','DEGREED SUBSTITUTE','PRE-K','State Ed. Allotment','Salaries And Wages For Substitute Teachers','REGULAR PAY',nan,nan,nan,94.32798611
+47,nan,nan,'Security & Monitoring Servicess','Campus Police','CELL PHONE','District Police','Employee Allowance',nan,'Undistributed',nan,'Mobile Phone',nan,nan,nan,nan,827.24
+48,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'School ','Food ',nan,'Undistributed',nan,'General',nan,nan,nan,nan,92349.63
+49,nan,nan,'Data Processing Services','General Fund','CELL PHONE','Network Support','Employee Allowance',nan,'Undistributed',nan,'Mobile Phone',nan,nan,nan,nan,525.7408565
+50,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Education Assistants','SUBSTITUTE TEACHER','Instruction - SPED',nan,nan,nan,nan,nan,'Special Education Instruction',112.6299
+51,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',"'AHC, VAR FOOTBL'",'School ','Professional Salaries',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,7347.076502
+52,0.004310345,nan,'NON-PROJECT',nan,"'Teacher, Short Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','GENERAL FUND',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,109.3479385
+53,0,nan,nan,'ITEMFA Schools Partnership','TEACHER TAPS MENTOR',nan,'Personal Services - Teachers','TAP ADDITIONAL  DAYS ','Support - TAP',nan,nan,'TEACHER ADVANCEMENT PROGRAM',nan,nan,'Teacher Advancement Program (TAP)',4627.03
+54,nan,nan,'Instruction','General Fund',nan,'School ','Substitute Teachers',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,88444.67506
+55,nan,nan,'INSTRUCTION','General Fund',nan,nan,'PURCHASE OF EQUIPMENT-OTHER THAN BUSES AND COMPUTE',nan,'PRIMARY GRADES PROGRAM ','PRIMARY GRADES PROGRAM ',nan,nan,nan,nan,nan,2611.84
+56,nan,nan,'Instruction','General Fund',nan,'Second Languages/Journalism','Substitute Teachers',nan,'Undistributed',nan,'General',nan,nan,nan,nan,6516.516061
+57,nan,nan,'NON-PROJECT',nan,'Nurse ','SCHOOL NURSE SERVICES','EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','NURSING SERVICES','GENERAL FUND',nan,'STUDENTS','SCHOOL NURSE SERVICES','n/a',nan,261.69
+58,nan,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher, Short Term Sub '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL HIGH SCHOOL EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,3.95
+59,nan,nan,'Instruction','General Fund',nan,'School ','Career Ladder',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,1638.847677
+60,0.5,nan,'Instruction','General Fund','T-EL LIT COACH',nan,'Professional Salaries',nan,'Accelerated Education',nan,'Reading Literacy',nan,nan,nan,nan,27055.9238
+61,1,nan,nan,'General Fund','Bus Driver                              ','Transportation',nan,'BUS DRIVER                              ','PUPIL TRANSPORTATION',nan,nan,nan,nan,nan,nan,30441.66707
+62,1,nan,'Instruction','General Fund','T-HS FRENCH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,61628.88176
+63,nan,nan,'Instruction','General Fund',nan,'Pre-K Center','Student Meals/Room/Other',nan,'Prekindergarten',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,199.68
+64,nan,nan,'Instruction','General Fund',nan,'School ','Misc Operating Expenses',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,1000.05
+65,0,'SECURITY',nan,'General Purpose School',nan,'District Wide Resources','Personal Services - Security','TIME CARD CLASSIFIED Addl','Operations',nan,nan,nan,nan,nan,'Security',625.2326479
+66,nan,nan,nan,nan,'Community School Child Care ',nan,'EMPLOYEE BENEFITS','PARAPROFESSIONAL','COMMUNITY SERVICE','DISTRICT SPECIAL REVENUE FUNDS',nan,'COMMUNITY SERVICES OPERATION',nan,nan,nan,3.49
+67,nan,nan,'EXCEPTIONAL                   ','GENERAL FUND                  ',"'TEACHER, VE                   '",'School ','TERMINAL LEAVE SICK           ',nan,nan,nan,nan,'TERMINAL LEAVE                ',nan,nan,nan,220.52
+68,nan,nan,'School Leadership','General Fund',nan,'School ',nan,nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,2000.04
+69,nan,'USING DATA HUMAN CAPITAL DECIS','INST STAFF TRAINING SVCS      ','ARRA - RACE TO THE TOP        ','CURRICULUM RESOURCE TEACHER   ','CHIEF ACADEMIC OFFICER        ','WORKSHOP PARTICIPANT          ',nan,nan,nan,nan,'RACE TO THE TOP               ',nan,nan,nan,105.37
+70,nan,nan,'Instruction','General Fund','TRAVEL','School ','Employee Allowance',nan,'Special Education',nan,'Speech Therapist',nan,nan,nan,nan,432.8077066
+71,1,nan,'Instruction','General Fund','T-EL KIN BIL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,53189.70357
+72,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'Office of Facilities','Extra Duty/Overtime',nan,'Undistributed',nan,'General',nan,nan,nan,nan,545.0392255
+73,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','COUNS- HS','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,73251.4266
+74,nan,nan,'CORE MATTERS',nan,"'Teacher, Short Term Sub '",'HUMANITIES','EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','GENERAL FUND',nan,'INSTRUCTIONAL STAFF','HUMANITIES','n/a',nan,1.36
+75,nan,nan,'NON-PROJECT',nan,"'Teacher, Elementary '",nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-141.8
+76,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'School ','Equipment Maintenance Repairs',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1286.18
+77,1,nan,nan,'General Purpose School','EDUCATIONAL ASSIST (ISS/HIGH)',nan,'Personal Services - Education Assistants','ISS ASSISTANT','Support - Regular Instruction',nan,nan,nan,nan,nan,'Regular Instructional Support',31678.94509
+78,nan,nan,'NON-PROJECT',nan,'Bus Driver  hr ','GARAGE','CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-659.62
+79,0.193368929,nan,'SPECIAL ED. - MILD/MODERATE',nan,"'Teacher, Secondary (High) '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','SPECIAL EDUCATION-CONVERSION','GENERAL FUND',nan,'SPECIAL EDUCATION',nan,'Regular',nan,11866.53578
+80,nan,nan,'Community Services',' Century Community Learning',nan,'School ','Copier Rental',nan,'Accelerated Education',nan,'Cycle  (used for grants)',nan,nan,nan,nan,85.69
+81,1,nan,'School Leadership','General Fund','ADMIN ASST II','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,47519.33871
+82,nan,nan,'General Administration','General Fund',nan,'Human Resources','Extra Duty/Overtime',nan,'Undistributed',nan,'General',nan,nan,nan,nan,43696.35804
+83,0.017241379,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher, Super Sub Rtd D/D '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','GENERAL HIGH SCHOOL EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Turnaround',nan,724.1897308
+84,nan,nan,'MAINTENANCE AND OPERATING','General Fund',nan,nan,'SUPPLIES',nan,'Misc','MISCELLANEOUS',nan,nan,nan,nan,nan,2065.42
+85,nan,nan,'Instruction','General Fund',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'Accelerated Education',nan,'SSIG',nan,nan,nan,nan,17031.21365
+86,1,nan,'Security & Monitoring Servicess','General Fund','SR. POLICE OFCR','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,56186.86195
+87,0.002155172,nan,'NON-PROJECT',nan,"'Teacher, Short Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','GENERAL FUND',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,54.82396923
+88,1,nan,'Instruction','General Fund',' ENGLISH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,53886.65292
+89,0.004310345,nan,'ELPA - PRESCHOOL PROG',nan,"'Teacher, Short Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','EARLY CHILDHOOD','ITEMGD PRESCHOOL PROGRAM',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,109.5479385
+90,nan,nan,'NON-PROJECT',nan,'Facility Manager V ',nan,'EMPLOYER PD MED CONTRIBUTION','OFFICE/ADMINISTRATIVE SUPPORT','CARE & UPKEEP OF BLDG SERVICES','GENERAL FUND',nan,'OPERATION AND MAINT OF PLANT',nan,'Regular',nan,503.76
+91,1,nan,'Plant Maintenance & Operations','General Fund','A/C MECH III','Service Center Bldg & Grounds','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,62508.75978
+92,nan,nan,'School Leadership','General Fund','CELL PHONE','School ','Employee Allowance',nan,'Undistributed',nan,'Mobile Phone',nan,nan,nan,nan,524.7708565
+93,nan,'Instruction And Curriculum','Instruction',"'""Title  Part A Improving Basic Programs""'","'TEACHER, REGULAR'",'School ','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR',"'""Title I, Part A Schoolwide Activities Related To State Comp'","'""Title  Part A Improving Basic Programs""'",'Extended Day','EXTENDED DAYS',nan,nan,nan,64.4145811
+94,1,nan,'School Leadership','General Fund','ATTEND SPEC III','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,31650.96435
+95,nan,nan,'Other Community Services *','Title I - Disadvantaged Children/Targeted Assistance',nan,nan,'Other General Supplies',nan,nan,'Community Services','General Supplies *',' TITLE I PARENT-PUBLI',nan,nan,nan,-64.51
+96,nan,nan,'FACILITATOR',nan,"'Facilitator,Sec Humanities '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','LITERACY COACHES','LEVY OVERRIDE',nan,'INSTRUCTIONAL STAFF',nan,'Turnaround',nan,2592.91432
+97,nan,nan,'Community Services',' Century Community Learning',nan,'School ','Employee Travel  (including In-District and Out-of-District)',nan,'Accelerated Education',nan,'Cycle  (used for grants)',nan,nan,nan,nan,700.28
+98,0.004310345,nan,'NON-PROJECT',nan,"'Teacher, Short Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','GENERAL FUND',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,109.8479385
+99,1,nan,'Plant Maintenance & Operations','General Fund','HEAD CUST I','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,47590.8988
+100,nan,nan,'PERFORMANCE MANAGEMENT / DELL',nan,"'Teacher, Elementary '",'CHIEF OPERATING OFFICER','ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL',"'PLANNING,RESEARCH,DEVELOPMENT'",'DISTRICT SPECIAL REVENUE FUNDS',nan,'CENTRAL','STRATEGIC PLANNING','n/a',nan,353.6548
+101,nan,nan,'Instruction','General Fund',nan,'School ','Career Ladder',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,1638.187677
+102,1,nan,'Instruction','General Fund','TCHR ASST- SP E','School ','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,35258.37754
+103,1,nan,'Instruction','Title I- Part A','T-EL BIL RD','School ','Professional Salaries',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,67390.5838
+104,nan,nan,'NON-PROJECT',nan,'Custodian Asst II ','ALL SCHOOLS-UNDISTRIBUTED','EMPLOYER PD MED CONTRIBUTION',"'CRAFTS, TRADES, AND SERVICES'",'CARE & UPKEEP OF BLDG SERVICES','GENERAL FUND',nan,'OPERATION AND MAINT OF PLANT',nan,'n/a',nan,461.51
+105,0.5,nan,'Instruction','General Fund','T-HS HISTORY','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,31275.33368
+106,nan,nan,'Curriculum Development And Instructional Staff Dev','General Operating Fund',nan,'School ','Travel And Subsistence - Employee Only',nan,'Undistributed',nan,'Travel And Subsistence - Employee Only',nan,nan,nan,'Undistributed',1638.82
+107,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'School ','Extra Duty/Overtime',nan,'Undistributed',nan,'General',nan,nan,nan,nan,7029.592733
+108,0.002155172,nan,'ELPA - FULL-DAY KINDER',nan,"'Teacher, Super Sub D/D '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','ITEMGD PRESCHOOL PROGRAM',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,82.55334918
+109,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Teachers','TIME CARD CERTIFIEDAddl','Instruction - Regular',nan,nan,nan,nan,nan,'Alternative Schools Instruction',175.35
+110,nan,nan,nan,'LOCAL FUND',nan,nan,'EDUCATIONAL','SUPPLIES AND MATERIALS','INSTRUCTIONAL PROGRAMS','LOCAL',nan,nan,'GENERAL EDUCATION',nan,nan,30570.13
+111,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund','UIL COORDINATOR','School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,441.0646358
+112,nan,nan,'NON-PROJECT',nan,'Food Service Worker II ',nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-41.69
+113,1,nan,'Instruction','General Fund','T-HS SPANISH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,54113.43759
+114,nan,nan,'NON-PROJECT',nan,'(blank)','CHIEF ACADEMIC OFFICER','COPYING','UNDESIGNATED','SUPPORT SERVICES-INSTRUCTIONAL','GENERAL FUND',nan,'INSTRUCTIONAL STAFF','CHIEF ACADEMIC OFFICER','n/a',nan,3350.91
+115,nan,nan,'TEXT BOOKS',nan,'(blank)',nan,'OTHER PURCHASED SERVICES','UNDESIGNATED','OTHER GENERAL EDUCATION','LEVY OVERRIDE',nan,'REGULAR INSTRUCTION',nan,'Charter',nan,27930.69
+116,1,nan,'School Leadership','General Fund','ELEM ASST PRIN','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,66993.94604
+117,nan,nan,'Instruction','General Fund',nan,'School ',nan,nan,'High School Allotment',nan,'General',nan,nan,nan,nan,11676.52
+118,1,nan,nan,'General Purpose School','TCHER 4TH GRADE',nan,'Personal Services - Teachers','TEACHER','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',64781.07
+119,1,nan,'Instruction','General Fund',' MATH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,52739.60087
+120,1,'All Campus Payroll','School Leadership','General Operating Fund',"'CLERICAL, SCHOOL ADMIN.'",'School ','Salaries Or Wages For Support Personnel','SECRETARY','Undistributed','Operations','Salaries Or Wages For Support Personnel','REGULAR PAY',nan,nan,'Undistributed',25078.21801
+121,nan,nan,'TITLE II-PART A-TEACHER QUALIT',nan,"'Teacher, Elementary '",'MATH / SCIENCE','ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','FEDERAL GDPG FUND - FY ',nan,'INSTRUCTIONAL STAFF','MATH/SCIENCE','n/a',nan,290.04072
+122,1,nan,'Data Processing Services','General Fund','SR TELECOM ANST','Network Support','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,75049.78946
+123,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics','MS ATHLETIC COR','School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,1296.870701
+124,0.428892265,nan,'FACILITATOR',nan,"'Facilitator,Elem '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','LITERACY COACHES','LEVY OVERRIDE',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,23250.76789
+125,1,nan,'Instructional Leadership','General Fund','ADM SUP- SCI/HL','Science and Health','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,89151.80242
+126,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Other Compensation','Career Ladder I/Ext Learning','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',574.66
+127,1,nan,'School Leadership','General Fund','DATA PROC ASTII','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,43406.03921
+128,nan,nan,'School Leadership','General Fund',nan,'School ','Salaries for Support Personnel',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,-0.38
+129,nan,nan,'Instruction And Curriculum Development Services *','Special Trust',nan,nan,'Classroom Supplies',nan,nan,'Support Services - Instructional Staff','General Supplies *','ITEMS FOUNDATION-JULY ',nan,nan,nan,-1661.03
+130,nan,nan,'General Administration','General Fund','TRAVEL','Student Services','Employee Allowance',nan,'Undistributed',nan,'General',nan,nan,nan,nan,340.9745567
+131,nan,nan,'Instructional Resources And Media Services','Campus Activity Funds',nan,'School ','Miscellaneous Contracted Services',nan,'Undistributed',nan,'Miscellaneous Contracted Services',nan,nan,nan,nan,4309
+132,0.65,'VISION',nan,'General Purpose School',nan,'District Wide Resources','Personal Services - Teachers','TEACHER','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',6950.89
+133,nan,nan,'TITLE I A - ARRA',nan,'Teacher Secondary (Middle) ',nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL MIDDLE/JUNIOR HIGH SCH','ARRA - STIMULUS',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,868.99568
+134,1,nan,'School Leadership','General Fund','ELEM PRINCIPAL','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,100235.6128
+135,0.86,nan,'BASIC (FEFP K-12)             ','GENERAL FUND                  ','TEACHER ASSISTANT-ELEM        ','School ','PARA PROFESSIONAL             ',nan,nan,nan,nan,nan,nan,nan,nan,15814.07273
+136,nan,nan,'TITLE I',nan,"'Teacher, Elementary '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','FEDERAL GDPG FUND - FY ',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,5495.02
+137,1,nan,'Instruction','General Fund','TCHR ASST- SP E','Center','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,28896.89222
+138,1,nan,'School Leadership','General Fund','ADMIN ASST II','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,42115.64909
+139,nan,nan,'Instruction','General Fund',nan,'School ','Miscellaneous Contracted Srvcs',nan,'Special Education',nan,'Special Education',nan,nan,nan,nan,34.97
+140,nan,nan,'Data Processing Services','General Fund','TRAVEL','Management Info System','Employee Allowance',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1952.594191
+141,1,nan,'High School','General',"'TCHR, SCNDY SOCIAL STUDIES'",'IN OTH CERTIFICATED PERSON','Regular *',nan,nan,'Regular Instruction','Certificated Employees Salaries And Wages','SCHOOL BASED MANAGEMENT','TEACHER',nan,nan,103317.888
+142,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics','CROSS CNTRY CCH','School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,1234.09285
+143,nan,nan,'Instruction And Curriculum Development Services *','Special Trust',nan,nan,'Purchased Services',nan,nan,'Support Services - Instructional Staff','Purchased Services',' TECH-GEMS TRAININ',nan,nan,nan,11349.73
+144,nan,nan,'Instruction','Title I- Part A',nan,'School ','Professional Salaries',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,-0.32
+145,nan,nan,'ADM  GOB',nan,'(blank)','FACILITY SERVICES','OUT-OF-STATE TRAVEL','UNDESIGNATED','OTHER FACILITIES ACQUISITION','BUILDING FUND',nan,'OTHER FACILITIES ACQUISITION','BOND EXPENDITURES',nan,nan,1733.52
+146,nan,nan,'NON-PROJECT',nan,'School Counselor',nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,31.49
+147,1,nan,'Student Transportation','General Fund','COORD- TRAN PLA','Transportation Office','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,72916.08513
+148,1,nan,'Instruction','General Fund',' SOC SCI','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,69730.14319
+149,0.88,'All Campus Payroll',"'""Guidance, Counseling And Evaluation Services""'",'General Operating Fund',"'CLERICAL, ASSESSMENT SPEC.'",'School ','Salaries Or Wages For Support Personnel','ASSESSMENT SPECIALIST SCRTY','Services To Students With Disabilities (Special Education)','Operations','Salaries Or Wages For Support Personnel','REGULAR PAY',nan,nan,nan,27498.89139
+150,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics','TRAVEL','Athletics-External ','Employee Allowance',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,1048.111713
+151,0.5,nan,'Community Services',' Century Community Learning','PROJECT SPEC II','Community Education-South','Professional Salaries',nan,'Accelerated Education',nan,'Cycle  (used for grants)',nan,nan,nan,nan,36410.13513
+152,nan,nan,'TITLE I',nan,'(blank)','FEDERAL PROG-PRIVATE SCHOOL','OTHER SUPPLIES','UNDESIGNATED','INSTRUCTIONAL STAFF TRAINING','FEDERAL GDPG FUND - FY ',nan,'INSTRUCTIONAL STAFF','GRANTS MANAGEMENT',nan,nan,71.75
+153,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'School ','Misc Operating Expenses',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,1000.51
+154,nan,nan,'EDUCATIONAL MEDIA SERVICE','General Fund',nan,'ADMIN. SERVICES','COMMUNICATION',nan,'MEDIA CENTERS','MEDIA CENTERS',nan,nan,nan,nan,nan,738.43
+155,nan,nan,'CARL PERKINS',nan,'Career Education Para ',nan,'SALARIES OF PART TIME EMPLOYEE','PARAPROFESSIONAL','TECHNICAL ED/COMPUTER TECH','FEDERAL GDPG FUND - FY ',nan,'VOCATIONAL EDUCATION',nan,'Alternative',nan,539.43608
+156,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,1000.22
+157,nan,nan,'UNALLOC BUDGETS/SCHOOLS',nan,'General Assignment ','ES TEAM ','EMPLOYER PD MED CONTRIBUTION','PARAPROFESSIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'n/a',nan,264.68
+158,nan,nan,'NON-PROJECT',nan,"'Coordinator, Central Curr '",'ENGLISH FOR SPEAKERS OF OTHER','CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-614.93
+159,nan,'Instruction And Curriculum','Instruction',"'""Title  Part A Improving Basic Programs""'","'TEACHER, REGULAR'",'School ','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR',"'""Title I, Part A Schoolwide Activities Related To State Comp'","'""Title  Part A Improving Basic Programs""'",'Extended Day','MISCELLANEOUS ',nan,nan,nan,52.28160154
+160,1,nan,'Instruction','General Fund','T-EL 4TH BIL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,56227.6982
+161,1,nan,'Instruction','General Fund','T-EL 3RD ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,55552.26746
+162,1,nan,'School Leadership','General Fund','MS ASST PRIN','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,71813.38004
+163,0.010775862,nan,'TITLE I A - ARRA',nan,"'Teacher,Retrd Shrt Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','ARRA - STIMULUS',nan,'INSTRUCTIONAL STAFF','TEACHER LEARNING & LEADERSHIP','Regular',nan,321.7174623
+164,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',"'HC, TRACK'",'School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,1815.999466
+165,1,nan,'Student Transportation','General Fund','BUS DRIVER','Transportation Office','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,36194.19866
+166,nan,nan,'School Leadership','General Fund','CELL PHONE','School ','Employee Allowance',nan,'Undistributed',nan,'Mobile Phone',nan,nan,nan,nan,436.8673804
+167,nan,nan,'IMPROVEMENT OF INSTR SERV','Title I',nan,'ADMIN. SERVICES','TRAVEL - EMPLOYEES',nan,"'REGULAR, TITLE I'",'TITLE I-A NCLB - DISADVANTAGED CHILDREN',nan,nan,nan,nan,nan,181.1
+168,1,nan,'Instruction','General Fund','TCHR ASST- SP E','School ','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,32378.34412
+169,nan,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund',nan,'Core Curriculum','Part-Time Hourly',nan,'Undistributed',nan,'Benchmark Testing',nan,nan,nan,nan,10924.90451
+170,1,nan,'Plant Maintenance & Operations','General Fund','TRUCK DRIVER IV','Central Warehouse','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,44182.915
+171,nan,nan,'School Leadership','General Fund',nan,'School ','Extra Duty/Overtime',nan,'Undistributed',nan,'General',nan,nan,nan,nan,-0.13
+172,nan,nan,'School Leadership','General Fund','CELL PHONE','School ','Employee Allowance',nan,'Undistributed',nan,'Mobile Phone',nan,nan,nan,nan,524.4608565
+173,0.94,'All Campus Payroll','Instruction','General Operating Fund',"'TEACHER, SPECIAL EDUCATION'",'School ','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR','Services To Students With Disabilities (Special Education)','Operations','Salaries And Wages For Teachers And Other Professi','REGULAR PAY',nan,nan,nan,48067.28097
+174,1,nan,'Plant Maintenance & Operations','Commercial  Bond Program','ACCOUNTANT IV','Construction Management','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,64255.57
+175,1,nan,'Instruction','General Fund','T-EL 5TH','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,53864.16431
+176,nan,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund',nan,'Guidance & Counseling','Software',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,nan
+177,1,nan,'Student Transportation','General Fund','BUS DRIVER','Transportation Office','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,32591.99237
+178,nan,nan,'Curriculum & Instructional Staff Development',"'ESEA, Title II, Part A - Teacher and Principal Training and Recruiting'",nan,'School','Non-Employee Travel Expense',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,1236.13
+179,1,nan,'Instruction','General Fund','T-EL MUSIC','School ','Professional Salaries',nan,'Basic Educational Services',nan,'Choral Music',nan,nan,nan,nan,52514.6362
+180,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'School ','Miscellaneous Contracted Srvcs',nan,'Undistributed',nan,'Laundry',nan,nan,nan,nan,419.89
+181,0.833358429,nan,'NON-PROJECT',nan,"'Teacher, Elementary '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL K-8 EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,58229.94699
+182,nan,nan,'FACILITIES - ACQ & CONSTR','Capital Projects Fund',nan,'ADMIN. SERVICES',"'BUILDING ACQUISITION, CONSTRUCTION AND IMPROVEMENT'",nan,'Misc','CAPITAL ROLLUP',nan,nan,nan,nan,nan,220092.21
+183,1,nan,'Plant Maintenance & Operations','General Fund','CUSTODIAN I','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,29018.18929
+184,0.4,nan,'Speech Pathology Services','General',"'TCHR, SPEECH/HEAR THERAP'",'SR OTH CERTIFICATED PERSON','Regular *',nan,nan,'Support Services--Pupils','Certificated Employees Salaries And Wages','SPEECH CORRECTION','TEACHERSUP',nan,nan,38898.87141
+185,nan,nan,'Community Services',' Century Community Learning',nan,'School ','General Supplies',nan,'Accelerated Education',nan,'Cycle  (used for grants)',nan,nan,nan,nan,2531.74
+186,nan,nan,'Speech Pathology Services','General',nan,nan,'Electronic Media',nan,nan,'Support Services--Pupils',"'Newspapers, Periodicals, Films And Filmstrips *'",'SPEECH CORRECTION',nan,nan,nan,-0.76
+187,1,'HEALTH SERVICES',nan,'General Purpose School','NURSE (SCHOOL)','District Wide Resources','Personal Services - Health Services','SCHOOL NURSE',"""Principal's Office""",nan,nan,nan,nan,nan,'Health Services',55092.42
+188,0,nan,'PUPIL TRANSPORTATION SERVICES ','GENERAL FUND                  ','BUS DRIVER                    ','TRANSPORTATION                ','BONUSES                       ',nan,nan,nan,nan,nan,nan,nan,nan,74.84
+189,nan,'Transportation Department','Transportation','General Operating Fund',"'TRANSPORTATION, SUBSTITUTE,REG'",'Unallocated','Extra Duty Pay/Overtime For Support Personnel','RADIO & SUBSTITUTE DRIVERS','Undistributed','Operations','Extra Duty Pay/Overtime For Support Personnel','WAITING TIME',nan,nan,'transportation - Second Runs',3.99
+190,nan,nan,'Instruction','General Fund',nan,'School ','Reading Materials including Library Books',nan,'Basic Educational Services',nan,'Business-MS    (Teaching Pathway-old name)',nan,nan,nan,nan,59.52
+191,nan,nan,'Community Services',' Century Community Learning',nan,'School ','Extra Duty/Overtime',nan,'Accelerated Education',nan,'Cycle  (used for grants)',nan,nan,nan,nan,7181
+192,nan,nan,'Instruction','General Fund',nan,'ABD','Reading Materials including Library Books',nan,'Special Education',nan,'General',nan,nan,nan,nan,200.01
+193,0.5625,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",'FOOD PROD SP I','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,13542.27942
+194,1,nan,'Instruction','General Fund','T-EL 1ST','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,54203.06934
+195,1,nan,'Instruction','General Fund','TCHR ASST- SP E','School ','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,30482.1882
+196,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',nan,'School ','General Supplies',nan,'Athletics and Related',nan,'Girls Soccer',nan,nan,nan,nan,1300.25
+197,1,nan,'Instruction','General Fund',' ENGLISH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,61200.65168
+198,nan,nan,'NON-PROJECT',nan,"'Manager, Facility III '",'PERSONNEL-PAID LEAVE','EMPLOYER PD MED CONTRIBUTION','OFFICE/ADMINISTRATIVE SUPPORT','STAFF SERVICES','GENERAL FUND',nan,'CENTRAL',nan,'n/a',nan,42.9
+199,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'School ','Food/Refreshment',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,1200.16
+200,nan,nan,'BASIC (FEFP K-12)             ','GENERAL FUND                  ',nan,'School ','NON-CAPITALIZED  EQUIP        ',nan,nan,nan,nan,'SCHOOL OPERATING ACCOUNT      ',nan,nan,nan,970.79
+201,nan,nan,'School Leadership','General Fund','TRAVEL','School ','Employee Allowance',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1035.792692
+202,1,nan,'Cocurricular & Extra Curricular Activities','Athletics','ATHL TRAINER','School ','Professional Salaries',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,57548.13187
+203,nan,'Instruction And Curriculum','Health Services','Idea Part B Formula',nan,'Undistributed','Professional Services',nan,'Services To Students With Disabilities (Special Education)',nan,'Professional Services (Licensed or Registered)',nan,'CONTRACTED SERVICES',nan,"'OTR, COTA, PT, PTA, SPeech Path, Five Oaks'",55392.72
+204,nan,nan,'Instruction','General Fund',nan,'School ','Food/Refreshment',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,2000.28
+205,nan,nan,'NON-PROJECT',nan,'Secondary Spec Ed Para ',nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-335.88
+206,nan,nan,'School Leadership','General Fund',nan,'School ','Professional Dues',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,499.6
+207,1,nan,'Instruction','General Fund','T-EL KIN BIL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,52965.6689
+208,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,73.56
+209,1,nan,nan,'General Purpose School',nan,nan,'Personal Services - Teachers','TEACHER - S.E  DAYS','Instruction - SPED',nan,nan,nan,nan,nan,'Special Education Instruction',11029.9099
+210,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund','DRILL TM DIRECT','School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,6965.932463
+211,nan,nan,'NON-PROJECT',nan,"'Teacher, Elementary '",'ELEMENTARY EDUCATION','CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-531.57
+212,0.78125,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",'FOOD PROD SP I','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,18808.66531
+213,1,nan,'Student Transportation','General Fund','BUS MONITOR','Transportation Office','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,27386.859
+214,1,nan,'Instructional Resource & Media Services','General Fund','LIBRARIAN- MS','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,55799.66654
+215,nan,'Transportation Department','Transportation','General Operating Fund',"'TRANSPORTATION, AIDE,SPEC.ED'",'Unallocated','Extra Duty Pay/Overtime For Support Personnel','BUS DRIVER AIDE','Undistributed','Operations','Extra Duty Pay/Overtime For Support Personnel','EXTRA RUN',nan,nan,'transportation - Second Runs',448.44
+216,nan,nan,'Instruction','General Fund',nan,'School ','Reading Materials including Library Books',nan,'Career and Technology',nan,'Comm/Digital Media',nan,nan,nan,nan,94.43
+217,nan,nan,'Instruction','General Fund',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,43424.90585
+218,1.000028141,nan,'NON-PROJECT',nan,"'Teacher, Secondary (High) '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL HIGH SCHOOL EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,88577.80127
+219,0.012931034,nan,'NON-PROJECT',nan,"'Teacher,Retrd Shrt Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','GENERAL FUND',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,386.7249548
+220,nan,nan,'DEBT SERVICES','Debt Service Fund',nan,'ADMIN. SERVICES','INTEREST',nan,'Misc','DEBT SERVICE',nan,nan,nan,nan,nan,2653572.36
+221,nan,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher, Short Term Sub '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL MIDDLE/JUNIOR HIGH SCH','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,0.33
+222,0,nan,'EXCEPTIONAL                   ','GENERAL FUND                  ','SUB TEACHER ALL               ','School ','OTHER PERSONAL SERVICES       ',nan,nan,nan,nan,nan,nan,nan,nan,58.29
+223,nan,nan,'Instruction','General Fund','CL ','School ','Career Ladder',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,3277.035353
+224,nan,nan,'GENERAL ADMINISTRATION','General Fund',nan,'ADMIN. SERVICES','TRAVEL - EMPLOYEES',nan,'Misc','MISCELLANEOUS',nan,nan,nan,nan,nan,21.16
+225,0,nan,'PUPIL TRANSPORTATION SERVICES ','GENERAL FUND                  ','BUS DRIVER                    ','TRANSPORTATION                ','WORKSHOP PARTICIPANT          ',nan,nan,nan,nan,nan,nan,nan,nan,13.816
+226,nan,nan,"'Guidance, Counseling and Evaluation Services'",'Title I- Part A',nan,'School ','General Supplies',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,1222.23
+227,nan,nan,'Curriculum & Instructional Staff Development','Title I- Part A',nan,'Primary Center','Extra Duty/Signing Bonus Pay',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,2977.379
+228,0.5,nan,'Instruction','Title I- Part A','INSTR/CURR SPEC','School ','Professional Salaries',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,37020.69611
+229,nan,nan,'Instruction','Title I- Part A',nan,'School ','Miscellaneous Contracted Srvcs',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,1000.29
+230,1,nan,'Instruction','General Fund','T-EL 5TH ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,54202.13934
+231,nan,nan,'General Administration','General Fund',nan,'Office of Innovation and Development','General Supplies',nan,'Undistributed',nan,'General',nan,nan,nan,nan,16382.73
+232,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Substitute Teachers Certified','SUBSTITUTE TEACHER','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',71.52
+233,nan,nan,'TEACHER INCENTIVE FUND (TIF)',nan,"'Principal, ITEMGB I '",'FEDERAL PROGRAMS/EXTERNAL RESO','SALARIES OF REGULAR EMPLOYEES','ADMINISTRATOR','SUPPORT SERVICES-SCHOOL ADMIN','FEDERAL GDPG FUND',nan,'SCHOOL ADMINISTRATION',nan,'n/a',nan,12604.13
+234,0.33,nan,'Cocurricular & Extra Curricular Activities','Athletics','T-HS ATHL','School ','Professional Salaries',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,18641.53768
+235,nan,nan,'Community Services',' Century Community Learning',nan,'School ','Miscellaneous Contracted Srvcs',nan,'Accelerated Education',nan,'Cycle  (used for grants)',nan,nan,nan,nan,46066.34
+236,nan,nan,'NON-PROJECT',nan,'Asst Coach ','ATHLETICS & STUDENT ACTIVITIES','ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','MALE ATHLETICS/SPORTS ACTIVITI','PUPIL ACTIVITY FUND',nan,'COCURRICULAR ED/ACTIVITIES','ATHLETICS','n/a',nan,2747.54336
+237,nan,nan,'Instructional Staff Training Services *','Title I - Disadvantaged Children/Targeted Assistance',nan,nan,'Personal Services - Employees Salaries and Wages',nan,nan,'Support Services - Instructional Staff','Personal Services - Employees Salaries And Wages','FY  TITLE I DI',nan,nan,nan,6153.43
+238,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Accelerated Education',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,5667.64
+239,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Other Personnel','RETIREE SUBSTITUTE TEACHER','District Administration',nan,nan,nan,nan,nan,'Office of Accountability',33.8299
+240,nan,nan,'Instructional Resource & Media Services','General Fund',nan,'Library Media Center','Copier Rental',nan,'Undistributed',nan,'General',nan,nan,nan,nan,28606.61
+241,nan,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher,Retrd Shrt Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,19.31048
+242,nan,nan,'Curriculum & Instructional Staff Development','General Fund','TRAVEL','School ','Employee Allowance',nan,'Undistributed',nan,'General',nan,nan,nan,nan,602.294985
+243,nan,nan,'NON-PROJECT',nan,"'Teacher, Elementary '",nan,'TEACHER COVERAGE FOR TEACHER','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,184.1444
+244,nan,nan,'NON-PROJECT',nan,'Elementary Spec Ed Para ',nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-83.09
+245,nan,nan,'School Leadership','General Fund',nan,'School ','Copier Rental',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,2000.79
+246,nan,'All Campus Payroll','Instruction','General Operating Fund','TEACHER SUBSTITUTE POOL','School ','Salaries And Wages For Substitute Professionals','TEACHER BACHELOR','PRE-K','Operations','Salaries And Wages For Substitute Teachers','REGULAR PAY',nan,nan,nan,161.5978647
+247,nan,nan,'Instruction','Title I- Part A',nan,'School ','Field Trips',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,5999.62
+248,1,nan,'Instruction','General Fund','T-EL KIN',nan,'Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,52627.189
+249,nan,nan,'NON-PROJECT',nan,'Teacher Secondary (Middle) ',nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-905.04
+250,nan,'Custodial Department','Facilities Maintenance And Operations','General Operating Fund','CUSTODIAN REGULAR','School ','Extra Duty Pay/Overtime For Support Personnel','REG FOOD SERVICE WORKER ','Undistributed','Operations','Extra Duty Pay/Overtime For Support Personnel','ADDL REGULAR PAY-NOT SMOOTHED',nan,nan,nan,451.56
+251,1,nan,'Student Transportation','General Fund','BUS DRIVER','Transportation Office','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,34838.20798
+252,nan,nan,'Office Of The Superintendent Services*','Special Trust',nan,nan,'Other Travel/Meeting Expense',nan,nan,'Support Services - Administration','Travel Mileage/Meeting Expense *','STRAT PLANNING',nan,nan,nan,-3700.42
+253,1,nan,'School Leadership','General Fund','ACCTG TECH II','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,nan
+254,1,nan,'Curriculum & Instructional Staff Development','IDEA-B Formula','BIL BEHAV SPEC','Special Education','Professional Salaries',nan,'Special Education',nan,'General',nan,nan,nan,nan,62733.58763
+255,nan,nan,'Elementary','Miscellaneous Federal Grants',nan,nan,'EQUIPMENT *',nan,nan,'Regular Instruction','Equipment *','TITLE II D TECH EETT COMP',nan,nan,nan,-35365.05
+256,nan,nan,'SAFETY & SECURITY',nan,'Security Patrol ','SAFETY AND SECURITY','EMPLOYER PD MED CONTRIBUTION','PROFESSIONAL-OTHER','SECURITY SERVICES','GENERAL FUND',nan,'OPERATION AND MAINT OF PLANT',nan,'n/a',nan,504.22
+257,nan,nan,'Instruction','General Fund',nan,'School ','Career Ladder',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,1638.907677
+258,nan,nan,'Data Processing Services','General Fund',nan,'Network Support','Extra Duty/Overtime',nan,'Undistributed',nan,'General',nan,nan,nan,nan,21848.94902
+259,nan,nan,'Instructional Leadership','Title I- Part A',nan,'State/Federal Compliance & Accountability','Food/Refreshment',nan,'Accelerated Education',nan,'Distributed from departments',nan,nan,nan,nan,999.87
+260,nan,nan,'Instructional Resource & Media Services','General Fund',nan,'Cable TV','Employee Travel  (including In-District and Out-of-District)',nan,'Undistributed',nan,'General',nan,nan,nan,nan,168.91
+261,nan,nan,'Non-Public School Services *','Auxiliary Services',nan,nan,'Electricity *',nan,nan,'Community Services','Utilities Services','AUX SERV -- MOBILE UNITS',nan,nan,nan,653.88
+262,nan,nan,'ELA E-TEACHING SHELTERED ENG',nan,"'Teacher, Elementary '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,108.69
+263,1,nan,'Instruction','General Fund','T-EL 2ND ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,52514.8662
+264,nan,nan,'Instruction','General Fund','TRAVEL','Center','Employee Allowance',nan,'Special Education',nan,'General',nan,nan,nan,nan,2870.045689
+265,nan,nan,'NON-PROJECT',nan,'(blank)','ENTERPRISE PRODUCT MANAGEMENT','ELECTRONIC MEDIA MATERIALS','UNDESIGNATED','INFORMATION SYSTEMS SERVICES','GENERAL FUND',nan,'CENTRAL','ITEMGG-PRODUCT MANAGEMENT','n/a',nan,992.28
+266,nan,nan,'SPECIAL EDUCATION - ITINERANT',nan,'Physical Therapist ','SPECIAL EDUCATION','EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','SPECIAL EDUCATION-PT','GENERAL FUND',nan,'SPECIAL EDUCATION','SPEECH & LANGUAGE','n/a',nan,114.7
+267,1,nan,'Instruction','General Fund','T-EL 2ND ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,61201.78168
+268,nan,nan,'NON-PROJECT',nan,"'Teacher, Elementary '",nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-937.4
+269,nan,nan,'Data Processing Services','General Fund','CELL PHONE','Network Support','Employee Allowance',nan,'Undistributed',nan,'Mobile Phone',nan,nan,nan,nan,525.2808565
+270,nan,nan,'INSTRUCTION','General Fund',nan,nan,'SUPPLIES',nan,'MIDDLE SCHOOL PROGRAM  6-8','MIDDLE SCHOOL PROGRAM 6-8',nan,nan,nan,nan,nan,61.87
+271,nan,nan,'Instruction And Curriculum Development Services *','Special Trust',nan,nan,'Data Processing Services',nan,nan,'Support Services - Instructional Staff','Professional And Technical Services *','TEACHER DISTRIBUTION PROJ',nan,nan,nan,3999.64
+272,0.998629027,nan,'NON-PROJECT',nan,"'Principal, Asst High Sch '",nan,'SALARIES OF REGULAR EMPLOYEES','ADMINISTRATOR','SUPPORT SERVICES-SCHOOL ADMIN','GENERAL FUND',nan,'SCHOOL ADMINISTRATION',nan,'Regular',nan,94016.12073
+273,nan,nan,'Non-Public School Services *','Title I - Disadvantaged Children/Targeted Assistance',nan,nan,'EQUIPMENT *',nan,nan,'Community Services','Equipment *','NON-PUBLIC',nan,nan,nan,-5392.88
+274,nan,nan,'Instructional Resource & Media Services','General Fund',nan,'Library Media Center',nan,nan,'Undistributed',nan,'General',nan,nan,nan,nan,44000.2
+275,0.33,nan,'Instruction','General Fund','T-HS ART','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,18778.60423
+276,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'School ','Equipment Maintenance Repairs',nan,'Undistributed',nan,'General',nan,nan,nan,nan,8705.38
+277,nan,nan,'Instruction','General Fund',nan,'Summer School','Field Trips',nan,'Accelerated Education',nan,'Summer Program',nan,nan,nan,nan,5942.57
+278,nan,nan,'NON-PROJECT',nan,'Nurse ','SCHOOL NURSE SERVICES','EMPLOYER PD MED CONTRIBUTION','PROFESSIONAL-INSTRUCTIONAL','NURSING SERVICES','GENERAL FUND',nan,'STUDENTS',nan,'n/a',nan,167
+279,nan,nan,'Instruction','General Fund',nan,'School ','Extra Duty/Overtime',nan,'Special Education',nan,'General',nan,nan,nan,nan,0.32
+280,0.016567741,nan,'SPECIAL ED - EARLY CHILDHOOD',nan,'Summer School Para ','SUMMER SCHOOL - ELEMENTARY SCH','SALARIES OF PART TIME EMPLOYEE','PARAPROFESSIONAL','SPECIAL EDUCATION','GENERAL FUND',nan,'SPECIAL EDUCATION','SPECIAL ED SYSTEMWIDE COSTS','n/a',nan,471.7276937
+281,1,nan,'Instruction','General Fund','T-MS/SE INCLUS','School ','Professional Salaries',nan,'Special Education',nan,'General',nan,nan,nan,nan,52964.1589
+282,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','COUNS- MS','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,63456.66796
+283,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'School ','Non Food',nan,'Undistributed',nan,'General',nan,nan,nan,nan,17469.1
+284,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Special Education',nan,'Special Education',nan,nan,nan,nan,1204.94
+285,nan,nan,'A TO Z GRANT ',nan,'(blank)',nan,'TRANSPORTATION/FIELD TRIPS','UNDESIGNATED','ENGLISH LANGUAGE ARTS','DISTRICT SPECIAL REVENUE FUNDS',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,105.34
+286,nan,nan,'SPECIAL PROGRAM FUNDING',nan,"'Teacher, Elementary '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,466.23
+287,nan,nan,'Curriculum & Instructional Staff Development','IDEA-B Formula',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'Special Education',nan,'Cycle  (used for grants)',nan,nan,nan,nan,0.26
+288,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",'FOOD PROD SUB','Food Service','Subs for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,22.91
+289,nan,'Transportation Department','Transportation','General Operating Fund',"'TRANSPORTATION, AIDE,SPEC.ED'",'Unallocated','Extra Duty Pay/Overtime For Support Personnel','BUS DRIVER AIDE','Undistributed','Operations','Extra Duty Pay/Overtime For Support Personnel','EXTRA RUN',nan,nan,'transportation - Second Runs',995.42
+290,nan,nan,'General Administration','General Fund','TRAVEL','Office of Innovation and Development','Employee Allowance',nan,'Undistributed',nan,'General',nan,nan,nan,nan,8193.908383
+291,0,nan,'INST STAFF TRAINING SVCS      ','GENERAL FUND                  ','SUB TEACHER ALL               ','STAFF DEV AND INSTR MEDIA     ','OTHER PERSONAL SERVICES       ',nan,nan,nan,nan,'TEACHER TRAINING              ',nan,nan,nan,75.09
+292,nan,nan,nan,nan,'TRAVEL',nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,233.74
+293,0.8,nan,'Social Work Services','Title I- Part D ','TRANSITION FACI','State/Federal Compliance & Accountability','Professional Salaries',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,53121.1767
+294,nan,nan,'Community Services',' Century Community Learning',nan,'School ','Reproduction Services',nan,'Accelerated Education',nan,'Cycle  (used for grants)',nan,nan,nan,nan,100.34
+295,nan,nan,'Instructional Staff Training Services *','Title  School Improvement Stimulus G',nan,nan,'Supplemental *',nan,nan,'Support Services - Instructional Staff','Certificated Employees Salaries And Wages',' SI COMP  ',nan,nan,nan,-51420.69
+296,0.85,nan,'PUPIL TRANSPORTATION SERVICES ','GENERAL FUND                  ','HEAD GARAGE MECHANIC          ','TRANSPORTATION                ','OTHER SUPPORT PERSONNEL       ',nan,nan,nan,nan,nan,nan,nan,nan,49549.99692
+297,0.12,nan,'Community Services','English Literacy Civics','COMM ED PROJ SU','School ','Salaries for Support Personnel',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,9057.048735
+298,0.532866379,nan,'AEFLA EXPANSION GRANT',nan,"'Opp Teacher, Non-Voc '",'OPPORTUNITY SCHOOL','SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','ADULT BASIC EDUCATION','FEDERAL GDPG FUND - FY ',nan,'EDUCATION FOR ADULTS','ADULT VOC ED OPPORTUNITY','Alternative',nan,30036.51069
+299,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'School ','Employee Travel  (including In-District and Out-of-District)',nan,'Undistributed',nan,'Social Studies',nan,nan,nan,nan,-0.33
+300,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','COUNS- HS','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,60434.7498
+301,nan,nan,'TITLE II-PART A-TEACHER QUALIT',nan,"'Teacher, Secondary (High) '",'HUMANITIES','ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','FEDERAL GDPG FUND - FY ',nan,'INSTRUCTIONAL STAFF','HUMANITIES','n/a',nan,223.49552
+302,0.078099184,nan,'NON-PROJECT',nan,"'Teacher, Elementary '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,3407.201605
+303,nan,nan,'SAFETY & SECURITY',nan,'(blank)','SAFETY AND SECURITY','BOOKS AND PERIODICALS','UNDESIGNATED','SECURITY SERVICES','GENERAL FUND',nan,'OPERATION AND MAINT OF PLANT','SAFETY AND SECURITY','n/a',nan,191.99
+304,nan,nan,'ARTS ED',nan,'(blank)',nan,'GENERAL SUPPLIES','UNDESIGNATED','GENERAL ELEMENTARY EDUCATION',' MILL LEVY',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,1133.41
+305,1,nan,'Instruction','General Fund','T-MS/V BUSN ED','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,54112.31759
+306,nan,'Instruction and Curriculum','Extracurricular Activities','General Operating Fund',nan,'School ','Reading Materials',nan,'Undistributed',nan,'Reading Materials',nan,nan,nan,'Undistributed',639.17
+307,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics','HS ATHL COORD','School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,7253.668515
+308,nan,nan,'NON-PROJECT',nan,"'Tutor, Avid '",'DISTRICT WIDE ORGANIZATION UNI','EMPLOYEE BENEFITS','PROFESSIONAL-OTHER','AVID','GENERAL FUND',nan,'REGULAR INSTRUCTION','UNDESIGNATED','n/a',nan,97.87
+309,nan,'Instruction And Curriculum','Instruction',"'""Title  Part A Improving Basic Programs""'","'TEACHER, REGULAR'",'Summer School','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR',"'""Title I, Part A Schoolwide Activities Related To State Comp'","'""Title  Part A Improving Basic Programs""'",'Extended Year','EXTENDED YEAR',nan,nan,nan,1563.633512
+310,nan,nan,'Instruction','General Fund',nan,'School ','Substitute Teachers',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,16082.41444
+311,1,nan,nan,nan,'Teacher',nan,nan,nan,nan,'LOCAL',nan,nan,'GENERAL EDUCATION',nan,nan,86399.30096
+312,nan,nan,'EXPELLED AT RISK',nan,'SFPC Liaison Specialist ','ADMISSIONS AND STUDENT RECORDS','ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','SOCIAL WORK SERVICES','STATE AND LOCAL GDPG FUND',nan,'STUDENTS','PREVENTION AND INTERVENTION','n/a',nan,141.76432
+313,0.5,nan,'School Leadership','General Fund','ELEM ASST PRIN','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,33606.75532
+314,1,nan,'Instruction','General Fund',' LANG ARTS','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,55755.02269
+315,1,nan,nan,'General Fund','Teacher-High School',nan,nan,'HS HISTORY ','HIGH SCHOOL GENERAL EDUCATION PROGRAM 9-12',nan,nan,nan,nan,nan,nan,56342.43
+316,nan,nan,'School Library Services *','General',nan,nan,'Electronic Media',nan,nan,'Support Services - Instructional Staff',"'Newspapers, Periodicals, Films And Filmstrips *'",'SCHOOL BASED MANAGEMENT',nan,nan,nan,320.45
+317,nan,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher, Short Term Sub '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,0.13
+318,nan,'Instruction And Curriculum','Curriculum Development And Instructional Staff Dev','Title Iv Part B  Century Community Learning Ce',nan,'School ','Travel And Subsistence - Employee Only',nan,'Undistributed',nan,'Travel And Subsistence - Employee Only',nan,nan,nan,'Undistributed',763.2
+319,nan,nan,'EARLY READING FIRST',nan,"'Teacher, Elementary '",'EARLY CHILDHOOD EDUCATION','ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','EARLY CHILDHOOD','FEDERAL GDPG FUND - FY ',nan,'REGULAR INSTRUCTION','EARLY EDUCATION','n/a',nan,5481.78024
+320,nan,nan,'STUDENT TRANSPORT SERVICE','Education Of Homeless Children',nan,'ADMIN. SERVICES','OTHER PURCHASED SERVICES',nan,'EDUCATION OF HOMELESS CHILDREN','HOMELESS CHILDREN EDUCATION',nan,nan,nan,nan,nan,2136.51
+321,nan,'Instruction And Curriculum','Curriculum Development And Instructional Staff Dev','Esea Title Ii Part A Teacher & Principal Training','SKILLS SPECIALIST','School ','Salaries And Wages For Teachers And Other Professi','TEACHER MASTER','Accelerated Education','Training And Recruiting','Extra Duty Wages','MISCELLANEOUS ',nan,nan,nan,1040.095263
+322,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'School ',"'Water,Wastewater, Sanitation'",nan,'Undistributed',nan,'General',nan,nan,nan,nan,47663.33
+323,0.439386529,nan,'NON-PROJECT',nan,'General Assignment ',nan,'SALARIES OF PART TIME EMPLOYEE','PARAPROFESSIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,7048.384475
+324,0,nan,'INST STAFF TRAINING SVCS      ','GENERAL FUND                  ','SUB TEACHER ALL               ','School ','OTHER PERSONAL SERVICES       ',nan,'ACADEMIC LITERACY NETWORK  ',nan,nan,'NATIONAL LITERACY PROJECT     ',nan,nan,nan,57.85
+325,nan,nan,'Community Services','Title I- Part A',nan,'School ','Miscellaneous Contracted Srvcs',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,3830.36
+326,1,nan,nan,nan,'PROJECT COORDINATOR (EG)','SPECIAL EDUCATION - LEA',nan,nan,nan,'LOCAL',nan,nan,'STRATEGIC MANAGEMENT',nan,nan,48853.85786
+327,nan,nan,'SCH ADMIN (OFFICE OF PRINC)   ','GENERAL FUND                  ','BOOKKEEPER I                  ','School ','TERMINAL LEAVE SICK           ',nan,nan,nan,nan,'TERMINAL LEAVE                ',nan,nan,nan,6234.83
+328,nan,nan,'PREP LEAGUE',nan,'Coach ','MIDDLE SCHOOL EDUCATION','ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','MALE ATHLETICS/SPORTS ACTIVITI','DISTRICT SPECIAL REVENUE FUNDS',nan,'COCURRICULAR ED/ACTIVITIES','ATHLETICS','n/a',nan,594.41232
+329,nan,'Instruction And Curriculum','Curriculum Development And Instructional Staff Dev','Esea Title Ii Part A Teacher & Principal Training',nan,'School ','Miscellaneous Operating Costs',nan,'Accelerated Education',nan,'Fees (Not Associated With Travel)',nan,'TRAVEL',nan,'Creating Qualified Teachers',599.34
+330,nan,'All Campus Payroll','Instruction','General Operating Fund','TEACHER SUBSTITUTE POOL','School ','Salaries And Wages For Substitute Professionals','DEGREED SUBSTITUTE','Bilingual Education And Special Language Programs','Operations','Salaries And Wages For Substitute Teachers','REGULAR PAY',nan,nan,nan,94.56798611
+331,nan,nan,'EMPLOYEE RETIREMENT',nan,'Secretary - Part-Time ','SECONDARY PATHWAYS','RETIREMENT CONTRIB.','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,168.67
+332,0.002155172,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher, Short Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,54.85396923
+333,nan,nan,'Instructional Leadership','General Fund',nan,nan,'Copier Rental',nan,'Undistributed',nan,'General',nan,nan,nan,nan,5980.05
+334,0.5,nan,'School Leadership','Title I- Part A','ELEM ASST PRIN','School ','Professional Salaries',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,35096.9967
+335,nan,nan,'NON-PROJECT',nan,'Teacher Secondary (Middle) ',nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL MIDDLE/JUNIOR HIGH SCH','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,1439.09
+336,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','COUNS- HS','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,61081.35067
+337,1,'All Campus Payroll','School Leadership','General Operating Fund',"'CLERICAL, SCHOOL ADMIN.'",'School ','Salaries Or Wages For Support Personnel','GENERAL CLERICAL','Undistributed','Operations','Salaries Or Wages For Support Personnel','REGULAR PAY',nan,nan,'Undistributed',23886.28792
+338,nan,nan,'Instruction','General Fund',nan,'School ','Salaries for Support Personnel',nan,'Accelerated Education',nan,'Stud Support',nan,nan,nan,nan,0.21
+339,nan,nan,'Instruction','General Fund',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'Gifted and Talented',nan,'General',nan,nan,nan,nan,0.18
+340,nan,nan,'Security & Monitoring Servicess','General Fund',nan,'District Police','Employee Travel  (including In-District and Out-of-District)',nan,'Undistributed',nan,'Security/Alarms',nan,nan,nan,nan,1689.79
+341,1,nan,'Instruction','General Fund',' SOC SCI','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,52739.69087
+342,nan,nan,'PUPIL SERVICES','Special Education',nan,'ADMIN. SERVICES','SUPPLIES',nan,"'ARRA - IDEA Title VI,B Flow Thru funds'",'TITLE VIB FLOWTHRU ARRA OF ',nan,nan,nan,nan,nan,13.52
+343,nan,nan,'Instruction','IDEA-B Formula',nan,'School ','General Supplies',nan,'Special Education',nan,'Special Education',nan,nan,nan,nan,560.31
+344,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,16970.44
+345,nan,nan,'Instructional Leadership','IDEA-B Formula',nan,'Special Education','Extra Duty/Overtime',nan,'Special Education',nan,'General',nan,nan,nan,nan,0.52
+346,nan,nan,'NON-PROJECT',nan,"'Teacher, Intervention '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL K-8 EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,219.03592
+347,nan,nan,'Community Services','Title I- Part A',nan,'School ','Reproduction Services',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,4243.13
+348,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'School ','Non Food',nan,'Undistributed',nan,'Warehouse Operations',nan,nan,nan,nan,1029
+349,1,nan,'Instruction','General Fund','T-EL 3RD','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,54878.16008
+350,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Career and Technology',nan,'Construction/Bldg Maint',nan,nan,nan,nan,4200.48
+351,1,nan,'Instruction','General Fund','T-EL 4TH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,53190.69357
+352,nan,nan,'Instruction','General Fund',nan,'School ','Substitute Teachers',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,55022.43013
+353,1,nan,'Security & Monitoring Servicess','General Fund','SECURITY GUARD','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,30682.03005
+354,nan,nan,'NON-PROJECT',nan,'(blank)',nan,'FACILITY-EMPAC MAINT MATERIALS','UNDESIGNATED','CARE & UPKEEP OF GROUNDS','CAPITAL RESERVE FUND',nan,'OPERATION AND MAINT OF PLANT','MAINTENANCE','Regular',nan,414.23
+355,nan,nan,'NON-PROJECT',nan,'Bus Driver  to  Yrs ',nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-29.75
+356,nan,nan,'Instruction And Curriculum Development Services *','Special Trust',nan,nan,'Supplies and Materials',nan,nan,'Support Services - Instructional Staff','Supplies And Materials','TRUST EQUINE',nan,nan,nan,2718.06
+357,0.75,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",'FOOD PROD SP IV','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,21536.19962
+358,0.611111072,nan,'NON-PROJECT',nan,"'Principal, Elementary '",nan,'SALARIES OF REGULAR EMPLOYEES','ADMINISTRATOR','SUPPORT SERVICES-SCHOOL ADMIN','GENERAL FUND',nan,'SCHOOL ADMINISTRATION',nan,'Regular',nan,59789.08599
+359,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','LSSP','Special Ed Evaluation Services','Professional Salaries',nan,'Accelerated Education',nan,'Stud Support',nan,nan,nan,nan,54650.33503
+360,0.005790852,nan,'NON-PROJECT',nan,'Food Service Worker I ','FOOD AND NUTRITION SERVICES','SALARIES OF PART TIME EMPLOYEE',"'CRAFTS, TRADES, AND SERVICES'",'FOOD PREPARATION/SERVING','FOOD SERVICE FUND',nan,'FOOD SERVICES OPERATIONS','FOOD SERVICES','n/a',nan,94.20274431
+361,nan,'Instruction And Curriculum','Instruction',"'""Title  Part A Improving Basic Programs""'","'CLERICAL, SCHOOL ADMIN.'",'School ','Extra Duty Pay/Overtime For Support Personnel','REGISTRAR',"'""Title I, Part A Schoolwide Activities Related To State Comp'","'""Title  Part A Improving Basic Programs""'",'Extra Duty Pay/Overtime For Support Personnel','EXTENDED DAYS',nan,nan,'Extra Duty',106.72
+362,nan,nan,'Other Community Services *','Title I - Disadvantaged Children/Targeted Assistance',nan,nan,'Contracted Food Services',nan,nan,'Community Services','Contracted Craft Or Trade Services *',' TITLE I C/O-ENCUMBR',nan,nan,nan,-449.8
+363,nan,nan,nan,nan,"'Teacher, Elementary '",'TEACHER EFFECTIVENESS','ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','DISTRICT SPECIAL REVENUE FUNDS',nan,'INSTRUCTIONAL STAFF','TEACHER EFFECTIVENESS','n/a',nan,1096.11
+364,0.5,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','EVAL SPEC. III','Office of Program Evaluation','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,31694.55608
+365,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',nan,'School ','General Supplies',nan,'Athletics and Related',nan,'Boys Track',nan,nan,nan,nan,1700.14
+366,nan,'All Campus Payroll','Instruction','General Operating Fund','TEACHER SUBSTITUTE POOL','School ','Salaries And Wages For Substitute Professionals','NON DEGREED SUBSTITUTE','Basic Educational Services','Operations','Salaries And Wages For Substitute Teachers','REGULAR PAY',nan,nan,'Basic Educational Services - District Objective ',87.00398707
+367,nan,nan,'STATE ELPA (ENG LANG PROF ACT)',nan,'ELA General Assignment ',nan,'EMPLOYEE BENEFITS','PARAPROFESSIONAL','GENERAL K-8 EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,2707.74
+368,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'School ','Electricity',nan,'Undistributed',nan,'General',nan,nan,nan,nan,80094.7
+369,nan,nan,'INSTRUCTION','Title I',nan,nan,'BOOKS (OTHER THAN TEXTBOOKS) AND PERIODICALS',nan,'ARRA - Title I Grants to LEAs','TITLE I-A ARRA OF  TARGETED ASSISTANCE',nan,nan,nan,nan,nan,7479.39
+370,1,nan,'Education Services*','Alternative Schools','FLEXIBLE CONTENT EXPERT','CHIEF ACADEMIC OFFICER','Regular *',nan,nan,'Support Services - Administration',nan,'ALT ','ADM/PROF',nan,nan,84126.53664
+371,1,nan,'Data Processing Services','General Fund','FIELD TECH II','Network Support','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,44317.62359
+372,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund','HS STUDENT COUN','School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,3446.800213
+373,nan,nan,'General Administration',"'ESEA, Title II, Part A - Teacher and Principal Training and Recruiting'",nan,'Human Resources','Extra Duty/Overtime',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,-0.37
+374,1,nan,"'Guidance, Counseling and Evaluation Services'",'IDEA-B Formula','LSSP','Special Ed Evaluation Services','Professional Salaries',nan,'Special Education',nan,'General',nan,nan,nan,nan,61198.46558
+375,1,nan,nan,'General Fund','Professional Asst III ','ADMIN. SERVICES',nan,'NONE ','Misc',nan,nan,nan,nan,nan,nan,50452.73
+376,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Substitute Teachers Certified','SUBSTITUTE TEACHER','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',2337.4299
+377,1,nan,'Instruction','General Fund','T-EL 1ST ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,52514.7562
+378,nan,'Magnet Program Administration','Instructional Leadership','General Operating Fund',nan,'Unallocated','Miscellaneous Operating Costs',nan,'Undistributed',nan,'Food - Working Lunches',nan,nan,nan,'Undistributed',133.81
+379,nan,nan,'SCHOOL IMPROVEMENT GRANT',nan,"'Teacher,Retrd Shrt Term Sub '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','SUPPORT SERVICES-INSTRUCTIONAL','FEDERAL GDPG FUND - FY ',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,2.92
+380,nan,nan,'Instruction','General Fund',nan,'School ',nan,nan,'Career and Technology',nan,'Cosmetology',nan,nan,nan,nan,0.56
+381,0.9583,nan,'Student Transportation','General Fund','BUS DRIVER','Transportation Office','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,29075.93444
+382,0.004310345,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher,Retrd Shrt Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','GENERAL HIGH SCHOOL EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Alternative',nan,128.9849849
+383,0.004310345,nan,'TITLE I A - ARRA',nan,"'Teacher, Short Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','ARRA - STIMULUS',nan,'INSTRUCTIONAL STAFF','TEACHER LEARNING & LEADERSHIP','Regular',nan,109.8579385
+384,nan,nan,'School Leadership','General Fund','TRAVEL','School ','Employee Allowance',nan,'Undistributed',nan,'General',nan,nan,nan,nan,799.5903062
+385,nan,nan,'SECONDARY TEACHER ENHANCEMENT',nan,'Administrators ','LEADERSHIP DEVELOPMENT','EMPLOYEE BENEFITS','ADMINISTRATOR','INSTRUCTIONAL STAFF TRAINING','FEDERAL GDPG FUND - FY ',nan,'INSTRUCTIONAL STAFF',nan,'n/a',nan,24.05
+386,nan,nan,'Instruction','General Fund',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'State Comp.Ed.-Support Title I Campuses',nan,'Account For Learning',nan,nan,nan,nan,10959.89432
+387,0.825664075,nan,'NON-PROJECT',nan,'Custodial Helper - Day ',nan,'SALARIES OF REGULAR EMPLOYEES',"'CRAFTS, TRADES, AND SERVICES'",'CARE & UPKEEP OF BLDG SERVICES','GENERAL FUND',nan,'OPERATION AND MAINT OF PLANT','CUSTODIAL-SCHOOLS','Regular',nan,22183.77729
+388,nan,nan,'MISCELLANEOUS DONATIONS',nan,'Classified Personnel ',nan,'EMPLOYEE BENEFITS','PARAPROFESSIONAL','GENERAL ELEMENTARY EDUCATION','DISTRICT SPECIAL REVENUE FUNDS',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,122.29
+389,0.002155172,nan,'ALL DAY KINDERGARTEN',nan,"'Teacher, Short Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION',' MILL LEVY',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,55.22396923
+390,1,'All Campus Payroll','School Leadership','General Operating Fund',"'CLERICAL, SCHOOL ADMIN.'",'School ','Salaries Or Wages For Support Personnel','SECRETARY','Undistributed','Operations','Salaries Or Wages For Support Personnel','REGULAR PAY',nan,nan,'Undistributed',32353.66964
+391,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Education Assistants','SUBSTITUTE TEACHER','Instruction - Regular',nan,nan,nan,nan,nan,'Alternative Schools Instruction',168.68
+392,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund','SPED DEPT CHAIR','School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,2891.874058
+393,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'School ','Maint: Bldg & Grounds',nan,'Career and Technology',nan,'Agriculture',nan,nan,nan,nan,4702.49
+394,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'School ','Food/Refreshment',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,250.2
+395,0.502733061,nan,'STATE - GIFTED AND TALENTED',nan,"'Teacher, Itinerant '",'GIFTED AND TALENTED','SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GIFTED AND TALENTED','GENERAL FUND',nan,'REGULAR INSTRUCTION','GIFTED AND TALENTED','n/a',nan,35127.6642
+396,nan,nan,'Instruction','General Fund','CL ','School ','Career Ladder',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,3277.285353
+397,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',"'AHC, VAR FOOTBL'",'School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,7347.456502
+398,1,nan,nan,'General Purpose School',nan,nan,'Personal Services - Teachers','TEACHER','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',7425.01
+399,1,nan,'Secondary Regular (Including Academic) and Independent Program *','General',"'TCHR, MARKETING'",'SR OTH CERTIFICATED PERSON','Regular *',nan,nan,'Vocational Instruction','Certificated Employees Salaries And Wages','SCHOOL BASED MANAGEMENT','TEACHER',nan,nan,96393.41654
+400,nan,nan,'FACILITATOR',nan,"'Teacher, Secondary (High) '",nan,'EMPLOYER PD MED CONTRIBUTION','PROFESSIONAL-INSTRUCTIONAL','GENERAL HIGH SCHOOL EDUCATION','LEVY OVERRIDE',nan,'REGULAR INSTRUCTION',nan,'Turnaround',nan,276.81
+401,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Other Compensation','Career Ladder I/Ext Learning','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',1164.66
+402,nan,nan,'Instructional Leadership','Title I- Part A',nan,'State/Federal Compliance & Accountability','Extra Duty/Overtime',nan,'Accelerated Education',nan,'Cycle  (used for grants)',nan,nan,nan,nan,2297.93
+403,nan,'WRITING TEAMS                 ','INST & CURRICULUM DEV SVCS    ','FED THRU STATE-CASH ADVANCE   ',"'TEACHER, THIRD                '",'School ','EXTRA DUTY PAY-INSTRUCTIONAL  ',nan,nan,nan,nan,'TITLE I                       ',nan,nan,nan,85.43
+404,nan,nan,'TEACHER INCENTIVE FUND (TIF)',nan,"'Principal, Asst High Sch '",'TEACHER LEARNING & LEADERSHIP','ADDITIONAL/EXTRA DUTY PAY/STIP','ADMINISTRATOR','SUPPORT SERVICES-SCHOOL ADMIN','FEDERAL GDPG FUND - FY ',nan,'SCHOOL ADMINISTRATION','TIF GRANT','n/a',nan,4109.44
+405,1,nan,'Instruction','General Fund','T-HS ART','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,53887.14292
+406,nan,nan,'NON-PROJECT',nan,'(blank)',nan,'GENERAL SUPPLIES','UNDESIGNATED','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,20430.52
+407,0.34,nan,'School Leadership','Title I- Part A','MS ASST PRIN','School ','Professional Salaries',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,25589.43594
+408,1,nan,'Instruction','General Fund','T-EL 2ND ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,52852.04367
+409,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,72337.63
+410,nan,nan,'NON-PROJECT',nan,"'Teacher, Secondary (High) '",nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-344.3
+411,1,nan,nan,'General Fund',"'Educational Interpreter, Sign Language'",'State Deaf','Salaries for Support Personnel',nan,nan,nan,nan,nan,nan,nan,nan,37492.90335
+412,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,4115.92
+413,1,nan,'Instruction','General Fund','TCHR ASST- SP E','Secondary Alternative Learning Center','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,33225.42328
+414,nan,nan,'NON-PROJECT',nan,"'Teacher, Super Sub Rtd D/D '",'DISTRICT WIDE ORGANIZATION UNI','EMPLOYEE BENEFITS','UNDESIGNATED','UNDESIGNATED','GENERAL FUND',nan,'UNDESIGNATED',nan,'n/a',nan,76.61
+415,0.041667748,nan,'TITLE II-PART A-TEACHER QUALIT',nan,"'Teacher, Intervention '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','LITERACY COACHES','FEDERAL GDPG FUND - FY ',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,3305.844843
+416,1,nan,nan,'General Fund','Grounds Equipment Operator','Service Center Bldg & Grounds','Salaries for Support Personnel',nan,nan,nan,nan,nan,nan,nan,nan,34999.64349
+417,1,nan,'School Leadership','General Fund','CLERK IV- SCH','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,33214.92002
+418,1,nan,"'Guidance, Counseling and Evaluation Services'",'IDEA-B Formula','LSSP','Special Ed Evaluation Services','Professional Salaries',nan,'Special Education',nan,'General',nan,nan,nan,nan,58666.17425
+419,nan,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher,Retrd Shrt Term Sub '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,9.48
+420,nan,nan,'Instruction','General Fund',nan,'School ','Equipment Maintenance Repairs',nan,'Basic Educational Services',nan,'Band',nan,nan,nan,nan,nan
+421,nan,nan,'Instruction','Title I- Part A',nan,'School ','Reading Materials including Library Books',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,-0.38
+422,nan,nan,'Summer Remediation *','Miscellaneous Federal Grants',nan,nan,'Supplemental *',nan,nan,'Other Instruction','Certificated Employees Salaries And Wages','ITEMB ',nan,nan,nan,-4243.38
+423,nan,nan,'Instruction','General Fund',nan,'School ','Reproduction Services',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,199.68
+424,nan,nan,'STUDENT TRANSPORT SERVICE','Schoolwide Schools',nan,nan,'OTHER PURCHASED SERVICES',nan,'Misc','SCHOOL-WIDE SCHOOL PGMS FOR TITLE GRANTS',nan,nan,nan,nan,nan,5056.76
+425,nan,nan,'Community Services','General Fund','TRAVEL','Community Education-South','Employee Allowance',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,2634.623304
+426,nan,nan,'Instruction','General Fund',nan,'School ','Equipment Maintenance Repairs',nan,'Basic Educational Services',nan,'Orchestra',nan,nan,nan,nan,2419.33
+427,nan,'All Campus Payroll',"'""Guidance, Counseling And Evaluation Services""'",'General Operating Fund',"'COUNSELOR, DRUG INTERVENTION'",'School ','Employee Allowances','INTERVENTION SPECIALIST',"'""Title I, Part A Schoolwide Activities Related To State Comp'",'State Ed. Allotment','Travel Allowances','TRAVEL',nan,nan,nan,56.15949858
+428,0.6,nan,'Instruction','General Fund',' CHOIR','School ','Professional Salaries',nan,'Basic Educational Services',nan,'Choral Music',nan,nan,nan,nan,35357.01973
+429,nan,'Special Programs','General Administration','General Operating Fund','ADMINISTRATOR','Administration - No Description Provided','Employee Allowances','DIRECTOR','Undistributed','Operations','Travel Allowances','TRAVEL',nan,nan,nan,660.6128416
+430,1,nan,'Instruction','General Fund','T-HS/SE SCORES','School ','Professional Salaries',nan,'Special Education',nan,'General',nan,nan,nan,nan,53527.46441
+431,nan,nan,'Disadvantaged Youth *','Title I - Disadvantaged Children/Targeted Assistance',nan,nan,'Classroom Supplies',nan,nan,'Special Instruction','General Supplies *','TITLE I PUBLIC ALLOCATION',nan,nan,nan,-12471.03
+432,nan,nan,'Instruction And Curriculum Development Services *','Special Trust',nan,nan,'Other Pupil Transportation Services',nan,nan,'Support Services - Instructional Staff','Pupil Transportation *','ITEMS FOUNDATION-JUNE ',nan,nan,nan,-1854.13
+433,nan,nan,'Instructional Resource & Media Services','General Fund','TRAVEL','Cable TV','Employee Allowance',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1258.156056
+434,nan,nan,'NON-PROJECT',nan,'(blank)','ES TEAM ','MILEAGE REIMBURSEMENT','UNDESIGNATED','INSTRUCTIONAL STAFF TRAINING','GENERAL FUND',nan,'INSTRUCTIONAL STAFF','INSTRUCTIONAL SUPPORT TEAMS','n/a',nan,3379.25
+435,nan,nan,nan,nan,'TRAVEL',nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,233.85
+436,0.004310345,nan,'NON-PROJECT',nan,"'Teacher,Retrd Shrt Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','GENERAL FUND',nan,'INSTRUCTIONAL STAFF',nan,'Alternative',nan,129.0049849
+437,1,nan,'Classroom Support - Special Education Aides *','General','PARA (AUT/MD)','EN CLASSIFIED SLRY/HRLY/DA','Regular *',nan,nan,'Support Services - Instructional Staff',nan,'SCHOOL BASED MANAGEMENT','PARAPROF',nan,nan,48557.39662
+438,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','COUNS- HS','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,61081.91067
+439,nan,nan,'NON-PROJECT',nan,'(blank)',nan,'PURCH MAINT SRVCS','UNDESIGNATED','MAINTENANCE - HVAC','CAPITAL RESERVE FUND',nan,'OPERATION AND MAINT OF PLANT','MAINTENANCE','Regular',nan,1015.26
+440,nan,nan,'A TO Z GRANT ',nan,'(blank)',nan,'BOOKS AND PERIODICALS','UNDESIGNATED','GENERAL ELEMENTARY EDUCATION','DISTRICT SPECIAL REVENUE FUNDS',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,1122.24
+441,nan,nan,'Instruction','General Fund',nan,'School ','Reading Materials including Library Books',nan,'Career and Technology',nan,'Comm/Digital Media',nan,nan,nan,nan,94.29
+442,nan,nan,'SPECIAL ED. - SEVERE NEEDS',nan,"'Teacher,Spec Ed Center Prg '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','SPECIAL EDUCATION-HD ELEM','GENERAL FUND',nan,'SPECIAL EDUCATION','SEVERE DISABILITIES','Regular',nan,595.48
+443,nan,nan,'EMPLOYEE RETIREMENT',nan,"'Teacher, Short Term Sub '",'DISTRICT WIDE ORGANIZATION UNI','RETIREMENT CONTRIB.','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,7.67
+444,nan,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','TRAVEL','Special Ed Evaluation Services','Employee Allowance',nan,'Special Education',nan,'General',nan,nan,nan,nan,1464.553143
+445,nan,nan,'INSTRUCTION','General Fund',nan,nan,'COMMUNICATION',nan,'PRIMARY GRADES PROGRAM ','PRIMARY GRADES PROGRAM ',nan,nan,nan,nan,nan,1228.32
+446,1,nan,'Instruction','General Fund','T-EL 1ST ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,52514.2162
+447,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund','NWSPPR/YRBK DIR','School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,3158.664161
+448,1,nan,nan,nan,"'ASSISTANT PRINCIPAL,SHS'",nan,nan,nan,nan,'SCHOOL IMPROVEMENT Title I',nan,nan,'SCHOOL LEADERSHIP',nan,nan,103007.8952
+449,nan,nan,'Instruction','Title I- Part A',nan,'School ','Salary Adjustments',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,13950.78
+450,nan,nan,'Instruction And Curriculum Development Services *','Special Trust',nan,nan,nan,nan,nan,'Support Services - Instructional Staff','General Supplies *','ITEMV-VARIOUS GRANTS',nan,nan,nan,-582.36
+451,1,nan,'General Administration','General Fund','PUBLIC AFF SPEC','Office of Planning and Community Relations','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,59107.78113
+452,0,nan,nan,'General Purpose School',nan,'District Wide Resources','Personal Services - Teachers','TIME CARD CERTIFIEDAddl','Instruction - Regular',nan,nan,nan,nan,nan,'Alternative Schools Instruction',1631.71
+453,0.396551724,nan,'NON-PROJECT',nan,"'Principal, Asst Hrly '",nan,'SALARIES OF PART TIME EMPLOYEE','ADMINISTRATOR','SUPPORT SERVICES-SCHOOL ADMIN','GENERAL FUND',nan,'SCHOOL ADMINISTRATION',nan,'Regular',nan,51263.26039
+454,nan,nan,'Instruction','General Fund',nan,'ABD','Field Trips',nan,'Special Education',nan,'General',nan,nan,nan,nan,1000.68
+455,0.875,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",'FOOD PROD SP IV','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,23305.59574
+456,nan,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher, Short Term Sub '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,6.71
+457,nan,'Instruction And Curriculum','Instruction','State Deaf Education',"'CLASSROOM AIDE, SPECIAL ED.'",'School ','Extra Duty Pay/Overtime For Support Personnel','LICENSED DEAF ED INTERPRETER','Services To Students With Disabilities (Special Education)','State Deaf Education','Extra Duty Pay/Overtime For Support Personnel','MISCELLANEOUS ',nan,nan,'Extra Duty Salary',366.82
+458,1,nan,'Instruction','General Fund',' SCIENCE','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,52851.69367
+459,nan,nan,'NON-PROJECT',nan,"'Teacher,Retrd Shrt Term Sub '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','GENERAL FUND',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,2.12
+460,1,nan,'School Leadership','General Fund','CLERK III- SCH','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,27977.16707
+461,nan,'COPY CENTER                   ','BASIC (FEFP K-12)             ','GENERAL FUND                  ',nan,'School ','OTHER PURCHASED SERVICES      ',nan,nan,nan,nan,'SCHOOL OPERATING ACCOUNT      ',nan,nan,nan,4942.33
+462,0.025,nan,nan,nan,'Aide (Afterschool)','OFC COM & ED PROG-AFTER SCHOOL AIDES',nan,nan,nan,"'SUMMER ED, ARTS & SPORTS - SEAS'",nan,nan,'AFTERSCHOOL PROGRAMS',nan,nan,986.5898011
+463,nan,nan,'EMPLOYEE RETIREMENT',nan,"'Teacher, Intervention '",'ELEMENTARY EDUCATION','RETIREMENT CONTRIB.','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,1030.63
+464,0.9276,nan,'Student Transportation','General Fund','BUS MONITOR','Transportation Office','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,22880.91933
+465,nan,nan,'General Administration','Title I- Part A',nan,'Human Resources','Reproduction Services',nan,'Accelerated Education',nan,'Personnel',nan,nan,nan,nan,999.94
+466,1,nan,'Instruction','General Fund','T-HS DANCE','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,52514.8062
+467,1,nan,'Instruction','General Fund','T-EL 2ND BIL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,52513.3562
+468,0.67,nan,'Instruction','General Fund',' AD SOC SC','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,35637.2696
+469,nan,nan,'School Leadership','General Fund',nan,'School ','Substitute for Other Professionals',nan,'Undistributed',nan,'General',nan,nan,nan,nan,3277.765353
+470,1,nan,'Data Processing Services','General Fund','TELEC TECH III','Network Support','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,61120.18724
+471,nan,nan,'NON-PROJECT',nan,"'School Counselor, High Sch '",nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-864.56
+472,nan,'Transportation Department','Transportation','General Operating Fund',"'TRANSPORTATION,BUS DR. SPEC.ED'",'Unallocated','Extra Duty Pay/Overtime For Support Personnel','BUS DRIVER',"'""Title I, Part A Schoolwide Activities Related To State Comp'",'Operations','Extra Duty Pay/Overtime For Support Personnel','ADDL REGULAR PAY-NOT SMOOTHED',nan,nan,nan,2039.03
+473,1,nan,'Instruction','General Fund','TCHR ASST- SP E','School ','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,31906.28665
+474,nan,nan,'ELA S - TEACHING SPANISH ONLY',nan,"'Teacher, Elementary '",nan,'EMPLOYER PD MED CONTRIBUTION','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,nan
+475,1,nan,'Instruction','General Fund','T-EL PK ESL','School ','Professional Salaries',nan,'Prekindergarten',nan,'Pre-K',nan,nan,nan,nan,63226.23809
+476,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics','GOLF COACH','School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,865.4178317
+477,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','COUNS- MS','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,69242.19845
+478,0.205546159,nan,'TUITION BASED - ECE',nan,'Early Childhood Education ',nan,'SALARIES OF PART TIME EMPLOYEE','PARAPROFESSIONAL','EARLY CHILDHOOD','DISTRICT SPECIAL REVENUE FUNDS',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,3261.60804
+479,0.5,nan,'BASIC (FEFP K-12)             ','CONVERSION CHARTER SCHOOLS    ','ENRICHMENT ASSISTANT          ','CHARTER','PARA PROFESSIONAL             ',nan,nan,nan,nan,nan,nan,nan,nan,19834.79554
+480,0.5,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",'FOOD PROD SP I','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,12036.7706
+481,1,nan,'School Leadership','General Fund','ELEM PRINCIPAL','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,113791.1009
+482,nan,nan,'General Administration','General Fund','TRAVEL','Human Resources','Employee Allowance',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1035.282692
+483,0.5,nan,'General Administration','General Fund','BENEFITS COORD','Finance','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,31363.23094
+484,nan,nan,'Instruction','General Fund',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,63786.09336
+485,0.69,nan,'Instruction','General Fund','SPEECH PATH','School ','Professional Salaries',nan,'Special Education',nan,'Speech Therapist',nan,nan,nan,nan,39324.3803
+486,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund','BAND DIRECTOR','School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,5138.686394
+487,nan,nan,'INSTRUCTION','General Fund',nan,nan,'SUPPLIES',nan,'PRIMARY GRADES PROGRAM ','PRIMARY GRADES PROGRAM ',nan,nan,nan,nan,nan,32.96
+488,nan,'Instruction And Curriculum','Instruction','General Operating Fund',"'TEACHER, REGULAR'",'Summer School','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR',"'""Title I, Part A Schoolwide Activities Related To State Comp'",'State Ed. Allotment','Extended Year','EXTENDED YEAR',nan,nan,'9th Grade Summer Remediation',nan
+489,nan,nan,'TITLE VI-IDEA B-MAIN',nan,'Occupational Therapist ','SPECIAL EDUCATION','EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','SPECIAL EDUCATION-OT','FEDERAL GDPG FUND - FY ',nan,'SPECIAL EDUCATION',nan,'n/a',nan,633.92
+490,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','COUNS- HS','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,60310.00855
+491,1,nan,'Instruction','General Fund','T-EL ART','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,52514.6362
+492,0,'SPECIAL EDUCATION',nan,'School Federal Projects',nan,'Central Office','Personal Services - Other Compensation','Travel Allotment','District Administration',nan,nan,'INDIVIDUALS WITH DISABILITIES ACT PART B',nan,nan,'IDEA Part B',698.1899
+493,1,nan,'Instruction','General Fund','COMP LAB ASST','School ','Salaries for Support Personnel',nan,'Accelerated Education',nan,'Delta',nan,nan,nan,nan,37032.17982
+494,nan,nan,'Instruction','General Fund','EXTRA CLASS','School ','Extra Duty/Signing Bonus Pay',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,8253.133672
+495,1,nan,'Instruction','General Fund','T-EL ART','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,54202.49934
+496,1,nan,'Instruction','General Fund','OCCUP THER','Special Education AH/VH','Professional Salaries',nan,'Special Education',nan,'Occupation Therapist',nan,nan,nan,nan,62543.18564
+497,nan,nan,'Instruction','General Fund',nan,'School ','Copier Rental',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,44499.82
+498,1,nan,'Plant Maintenance & Operations','General Fund','A/C MECH III','Service Center Bldg & Grounds','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,48029.94618
+499,nan,nan,'NON-PROJECT',nan,"'Teacher, Elementary '",nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-1235.48
+500,1,nan,'Health Services','General Fund','V/H TEST TECH','Health Services','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,63918.81668
+501,1,nan,'Instruction','Title I- Part A','T-EL 5TH BIL','School ','Professional Salaries',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,54963.90476
+502,1,'HEALTH SERVICES',nan,'General Purpose School','THERAPIST ASST PHYSICAL','District Wide Resources','Personal Services - Health Services','ASST. THERAPIST',"""Principal's Office""",nan,nan,nan,nan,nan,'Special Education Support',47915.65285
+503,nan,nan,'Middle/Junior High','Special Trust',nan,nan,'Other Professional and Technical Services',nan,nan,'Regular Instruction','Professional And Technical Services *','CTR COMM SOL-BRICK MALE',nan,nan,nan,-11499.42
+504,nan,nan,'NON-PROJECT',nan,'Misc Fee Basis ','ATHLETICS & STUDENT ACTIVITIES','SALARIES OF PART TIME EMPLOYEE','OFFICE/ADMINISTRATIVE SUPPORT','FEMALE ATHLETICS/SPORTS ACTIVI','PUPIL ACTIVITY FUND',nan,'COCURRICULAR ED/ACTIVITIES','ATHLETICS','n/a',nan,91.964
+505,nan,nan,'ELPA - FULL-DAY KINDER',nan,'(blank)',nan,'GENERAL SUPPLIES','UNDESIGNATED','GENERAL ELEMENTARY EDUCATION','ITEMGD PRESCHOOL PROGRAM',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,nan
+506,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,1012.931904
+507,nan,nan,'Data Processing Services','General Fund','TRAVEL','Management Info System','Employee Allowance',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1257.796056
+508,nan,nan,'NON-PROJECT',nan,"'Supv, Athletics '",'MIDDLE SCHOOL EDUCATION','CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-39.64
+509,nan,nan,'Instructional Leadership','General Fund',nan,'Assoc Superintendent-Area  Elementary ','Part-Time Hourly',nan,'Undistributed',nan,'General',nan,nan,nan,nan,-0.95
+510,1,nan,'Instruction','General Fund',' P.E.','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,55553.05746
+511,nan,nan,'General Administration','General Fund',nan,'Student Services','Misc Operating Expenses',nan,'Undistributed',nan,'General',nan,nan,nan,nan,300.61
+512,nan,nan,'Instructional Leadership','General Fund','TRAVEL','Special Ed Evaluation Services','Employee Allowance',nan,'Special Education',nan,'General',nan,nan,nan,nan,1035.922692
+513,nan,nan,'Statistical Services *','General',nan,nan,'Technical Equipment',nan,nan,'Support Services - Central','Equipment *','STUDENT ASSIGNMENTS',nan,nan,nan,7000.19
+514,nan,nan,'TITLE I A - ARRA',nan,"'Teacher, Intervention '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL K-8 EDUCATION','ARRA - STIMULUS',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,16.53
+515,0.017134579,nan,'NON-PROJECT',nan,'Food Service Worker II ',nan,'SALARIES OF PART TIME EMPLOYEE',"'CRAFTS, TRADES, AND SERVICES'",'FOOD PREPARATION/SERVING','FOOD SERVICE FUND',nan,'FOOD SERVICES OPERATIONS','FOOD SERVICES','Regular',nan,287.8981241
+516,nan,nan,'Instruction','General Fund',nan,'School ',nan,nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,10665.23
+517,nan,nan,'Curriculum & Instructional Staff Development','Title I- Part A',nan,'School ','General Supplies',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,800.59
+518,nan,nan,'Security & Monitoring Servicess','General Fund',nan,'School ','Extra Duty/Overtime',nan,'Undistributed',nan,'General',nan,nan,nan,nan,6128.527511
+519,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','T-HS','Learning Support Services','Professional Salaries',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,55043.39088
+520,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'High School Allotment',nan,'General',nan,nan,nan,nan,60754.69216
+521,nan,'Instruction And Curriculum','Instruction','General Operating Fund',"'TEACHER, SPECIAL EDUCATION'",'Summer School','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR','High School Allotment','High School Allotment','Extended Year','EXTENDED YEAR',nan,nan,nan,260.4986465
+522,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,'Tech Ed',nan,nan,nan,nan,1925.96
+523,nan,nan,'School Leadership','General Fund','TRAVEL','School ','Employee Allowance',nan,'Undistributed',nan,'General',nan,nan,nan,nan,799.7203062
+524,nan,nan,nan,nan,'EXTRA CURRICULAR SPO',nan,'Extracurricular Supp',nan,nan,nan,nan,nan,nan,nan,nan,1972.084241
+525,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,22852.47
+526,1,nan,'Security & Monitoring Servicess','General Fund','SERGEANT','District Police','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,77049.70448
+527,0.012931034,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher,Retrd Shrt Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,386.7249548
+528,1,nan,'School Leadership','General Fund','ELEM PRINCIPAL','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,113790.6909
+529,nan,nan,'Instruction','General Fund',nan,'Summer School','General Supplies',nan,'Accelerated Education',nan,'High School-Summer Programs ',nan,nan,nan,nan,3391.16
+530,0.1,nan,'Community Services','Apprenticeship','CHILD CARE WKR','School ','Salaries for Support Personnel',nan,'Accelerated Education',nan,'Child Care Program-Full Day',nan,nan,nan,nan,3980.897202
+531,nan,nan,'Middle/Junior High','Special Trust',nan,nan,'Supplies and Materials',nan,nan,'Regular Instruction','Supplies And Materials','CHARACTER ED MINI PILOT',nan,nan,nan,nan
+532,1,nan,nan,'General Purpose School','CUSTODIAN',nan,'Personal Services - Custodians','HEAD CUSTODIAN','Operations',nan,nan,nan,nan,nan,'Operation of Plant',33468.33843
+533,nan,nan,'INNOVATION FUND',nan,"'Teacher, Short Term Sub '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING',' MILL LEVY',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,-0.13
+534,nan,nan,'STAFF SERVICES                ','GENERAL FUND                  ','TEMPORARY STUDENT WORKER      ','HUMAN RESOURCES               ','TEMPORARY STUDENT WORKER      ',nan,nan,nan,nan,nan,nan,nan,nan,669.68
+535,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',"'HD COACH,SOCCER'",'School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,6718.363474
+536,nan,nan,'ELPA - PRESCHOOL PROG',nan,"'Teacher,Retrd Shrt Term Sub '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','EARLY CHILDHOOD','ITEMGD PRESCHOOL PROGRAM',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,5.89
+537,nan,nan,'Social Work Services','General Fund',nan,"'School, Family and Community Education'",'Professional Services',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,101992.53
+538,0.875,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",'FOOD PROD SP V','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,25853.69783
+539,nan,nan,'Instruction And Curriculum Development Services *','Special Trust',nan,nan,'Capital Outlay',nan,nan,'Support Services - Instructional Staff','Capital Outlay','ITEMS FOUNDATION-AUG ',nan,nan,nan,129.15
+540,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'Finance','Insurance & Bonding costs',nan,'Undistributed',nan,'Insurance-Others',nan,nan,nan,nan,5981.12
+541,nan,'All Campus Payroll','Instruction','General Operating Fund','TEACHER SUBSTITUTE POOL','Undistributed','Salaries And Wages For Substitute Professionals','CERTIFIED SUBSTITUTE','Basic Educational Services','Operations','Salaries And Wages For Substitute Teachers','REGULAR PAY',nan,nan,'Basic Educational Services - District Objective ',444.6059339
+542,nan,nan,'Instructional Resource & Media Services','General Fund',nan,'Elementary (Pre-K)','Reading Materials including Library Books',nan,'Prekindergarten',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,173.54
+543,0.5,nan,nan,'General Fund','Teacher-Special Need/Pre-K',nan,nan,'PRE-K SPEECH (SLP)','SPECIAL EDUCATION CATEGORY II',nan,nan,nan,nan,nan,nan,33270.07
+544,nan,nan,'ELA E-TEACHING SHELTERED ENG',nan,"'Teacher, Secondary (High) '",nan,'EMPLOYER PD MED CONTRIBUTION','PROFESSIONAL-INSTRUCTIONAL','GENERAL HIGH SCHOOL EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,504.06
+545,nan,nan,'Instructional Leadership','General Fund','CELL PHONE','Special Education','Employee Allowance',nan,'Special Education',nan,'Mobile Phone',nan,nan,nan,nan,524.3408565
+546,nan,nan,'Instructional Staff Training Services *','Title I - Disadvantaged Children/Targeted Assistance',nan,nan,'Other Miscellaneous',nan,nan,'Support Services - Instructional Staff','Other Miscellaneous Expenditures *','TITLE I SCHOOL IMPROVEMEN',nan,nan,nan,-564.62
+547,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',"'HC, BASKETBALL'",'School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,2075.455057
+548,0.004310345,nan,'NON-PROJECT',nan,"'Teacher, Super Sub Rtd D/D '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','GENERAL FUND',nan,'INSTRUCTIONAL STAFF',nan,'Turnaround',nan,180.7874327
+549,0.00862069,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher, Short Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','GENERAL HIGH SCHOOL EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,218.9258769
+550,nan,'All Campus Payroll','Instruction','General Operating Fund','TEACHER SUBSTITUTE POOL','School ','Salaries And Wages For Substitute Professionals','DEGREED SUBSTITUTE','Basic Educational Services','Operations','Salaries And Wages For Substitute Teachers','REGULAR PAY',nan,nan,'Basic Educational Services - District Objective ',95.08798611
+551,nan,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund',nan,'System Wide Testing','Misc Operating Expenses',nan,'Undistributed',nan,'General',nan,nan,nan,nan,2749.85
+552,nan,nan,'EDUCATIONAL MEDIA SERVICE','General Fund',nan,nan,'SUPPLIES',nan,'MEDIA CENTERS','MEDIA CENTERS',nan,nan,nan,nan,nan,75.09
+553,nan,nan,'School Leadership','General Fund',nan,'Center','Reproduction Services',nan,'Special Education',nan,'General',nan,nan,nan,nan,249.59
+554,nan,nan,'Instruction','General Fund',nan,'School ','Copier Rental',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,9999.2
+555,1,nan,'Instruction','General Fund',""" SCI- GEN'""",'School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,52514.7862
+556,1,nan,'Instruction','General Fund','T-EL 3RD ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,52739.96087
+557,1,nan,'Instruction','General Fund','T-MS/SE INCLUS','School ','Professional Salaries',nan,'Special Education',nan,'General',nan,nan,nan,nan,58927.80955
+558,1,nan,'Instruction','General Fund',' MATH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,52965.2089
+559,nan,nan,'Instruction','IDEA-B-Deaf',nan,'ABD',nan,nan,'Special Education',nan,'Hearing Impaired',nan,nan,nan,nan,-0.46
+560,nan,'WRITING TEAMS                 ','INST & CURRICULUM DEV SVCS    ','FED THRU STATE-CASH ADVANCE   ',"'TEACHER, FIFTH                '",'School ','EXTRA DUTY PAY-INSTRUCTIONAL  ',nan,nan,nan,nan,'TITLE I                       ',nan,nan,nan,305.12
+561,0.49,nan,nan,'General Fund','Clinic Assistant',nan,nan,'CLINIC ASSISTANT ','NURSES',nan,nan,nan,nan,nan,nan,1542.84
+562,nan,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund',nan,'School ','Reading Materials including Library Books',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,300.68
+563,nan,nan,'SCHOOL TUTORIAL PROGRAM',nan,'Teacher',nan,'ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','GENERAL K-8 EDUCATION','LEVY OVERRIDE',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,2012.10248
+564,nan,nan,'TITLE VI-IDEA B-MAIN',nan,'Secondary Spec Ed Para ',nan,'EMPLOYEE BENEFITS','PARAPROFESSIONAL','SPECIAL EDUCATION','FEDERAL GDPG FUND - FY ',nan,'SPECIAL EDUCATION',nan,'Regular',nan,959.13
+565,1,nan,nan,'General Fund','Teacher-Elementary ',nan,nan,'5TH GRADE ','UPPER ELEMENTARY GRADES PROGRAM ',nan,nan,nan,nan,nan,nan,61392.03
+566,0,nan,'BASIC (FEFP K-12)             ','GENERAL FUND                  ','SUB TEACHER ALL               ','School ','OTHER PERSONAL SERVICES       ',nan,nan,nan,nan,'INTENSIVE READING DOP - SAI   ',nan,nan,nan,59.49
+567,nan,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','CL ','School ','Career Ladder',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,3277.285353
+568,0.5,nan,'Instruction','IDEA-B Preschool','SPEECH PATH','School ','Professional Salaries',nan,'Special Education',nan,'Speech Therapist',nan,nan,nan,nan,29106.44357
+569,nan,nan,'NON-PROJECT',nan,'Accounting Technician II ','GENERAL LEDGER ACCOUNTING','SALARIES OF REGULAR EMPLOYEES','OFFICE/ADMINISTRATIVE SUPPORT','FINANCIAL ACCOUNTING SERVICES','GENERAL FUND',nan,'BUSINESS','GENERAL LEDGER ACCOUNTING','n/a',nan,1329.20392
+570,nan,nan,'NON-PROJECT',nan,"'Teacher, Elementary '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,1316.30648
+571,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Teachers','TIME CARD CERTIFIEDAddl','Instruction - Regular',nan,nan,nan,nan,nan,'Alternative Schools Instruction',174.83
+572,nan,nan,'Instruction','Title I- Part A',nan,'School ','Salary Adjustments',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,0.86
+573,nan,nan,'IMPROVEMENT OF INSTR SERV','Schoolwide Schools',nan,nan,'TRAVEL - EMPLOYEES',nan,'Misc','SCHOOL-WIDE SCHOOL PGMS FOR TITLE GRANTS',nan,nan,nan,nan,nan,26.24
+574,nan,nan,'Instructional Resource & Media Services','General Fund',nan,'Science/Health Res Ctr','Employee Travel  (including In-District and Out-of-District)',nan,'Undistributed',nan,'General',nan,nan,nan,nan,199.98
+575,nan,'Instruction And Curriculum','Community Services',"'""Title  Part A Improving Basic Programs""'",nan,'School ','General Supplies',nan,'Accelerated Education',nan,'Postage',nan,'SUPPLIES & MATERIALS',nan,'Held Funds',458.1
+576,nan,nan,'NON-PROJECT',nan,'Nurse ',nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','NURSING SERVICES','GENERAL FUND',nan,'STUDENTS',nan,'Regular',nan,4749.28
+577,1,nan,'Instruction','General Fund','T-EL 2ND BIL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,nan
+578,nan,nan,'Instruction','General Fund','TRAVEL','School ','Employee Allowance',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,256.4659176
+579,0.00862069,nan,'NON-PROJECT',nan,"'Teacher, Short Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','GENERAL FUND',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,219.9358769
+580,0.46,nan,nan,nan,"'Analyst, Special Ed Data'",'EARLY STAGES',nan,nan,nan,'LOCAL',nan,nan,'EARLY STAGES',nan,nan,27329.72808
+581,nan,nan,'Instruction','General Fund','CL ','School ','Career Ladder',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,3277.225353
+582,nan,nan,'PART TIME TEACHER',nan,'Campus Security Officer ',nan,'ADDITIONAL/EXTRA DUTY PAY/STIP','OFFICE/ADMINISTRATIVE SUPPORT','SCHOOL SECURITY','GENERAL FUND',nan,'OPERATION AND MAINT OF PLANT','SAFETY AND SECURITY','Regular',nan,1874.2
+583,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,'Orchestra',nan,nan,nan,nan,781.01
+584,0.5,nan,'School Leadership','General Fund','ELEM ASST PRIN','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,33497.79802
+585,nan,nan,'Instruction','Title I- Part A',nan,'School ','Salary Adjustments',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,1718.41
+586,nan,nan,'EMPLOYEE RETIREMENT',nan,'General Assignment ','ES TEAM ','RETIREMENT CONTRIB.','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,107.72
+587,nan,nan,'ELPA - PRESCHOOL PROG',nan,'Psychologist ','EARLY CHILDHOOD EDUCATION','EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','PSYCHOLOGICAL SERVICES','ITEMGD PRESCHOOL PROGRAM',nan,'STUDENTS','EARLY EDUCATION','n/a',nan,74.01
+588,nan,nan,'Curriculum & Instructional Staff Development','General Fund','CELL PHONE','Bilingual / ESL','Employee Allowance',nan,'Bilingual Education',nan,'Mobile Phone',nan,nan,nan,nan,524.1908565
+589,0.14,'All Campus Payroll','Instruction','General Operating Fund','GIFTED AND TALENTED TEACHERS','School ','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR','Gifted And Talented','Operations','Salaries And Wages For Teachers And Other Professi','REGULAR PAY',nan,nan,nan,8525.379944
+590,nan,nan,'EMPLOYEE RETIREMENT',nan,"'Teacher, Elementary '",nan,'RETIREMENT CONTRIB.','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,1044.36
+591,nan,nan,'Instruction','IDEA-B Formula',nan,'School ','Part-Time Hourly',nan,'Special Education',nan,'General',nan,nan,nan,nan,2523.134
+592,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',"'FR COACH,BASEBL'",'School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,3626.319258
+593,0,nan,'FOOD SERVICE                  ','FOOD SERVICES                 ','FOOD SERVICE ASSISTANT        ','School ','OTHER PERSONAL SERVICES       ',nan,nan,nan,nan,nan,nan,nan,nan,63.92
+594,nan,nan,'Community Services','General Fund',nan,'School ','General Supplies',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,1.17
+595,nan,nan,'EXT DAY TUITION PAID KINDERGAR',nan,"'Teacher, Elementary '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,211.87
+596,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund','JR HONOR SOC','School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,800.0803062
+597,nan,nan,'Care And Upkeep Of Equipment And Furniture Services','Special Trust',nan,nan,'EQUIPMENT *',nan,nan,'Operation And Maintenance Of Plant Services','Equipment *','BP AMER/TRW SCH OF SCIENC',nan,nan,nan,3334.72
+598,nan,nan,'Instruction','General Fund',nan,'Unallocated Cost Budget','General Supplies',nan,'Undistributed',nan,'Carry Over',nan,nan,nan,nan,nan
+599,1,nan,'Instructional Resource & Media Services','General Fund','LIBRARIAN- ELEM','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,66354.4411
+600,nan,nan,'ELA E-TEACHING SHELTERED ENG',nan,"'Teacher, Secondary (High) '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL HIGH SCHOOL EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Turnaround',nan,218.19592
+601,1,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",'F/S MGR I','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,33187.58249
+602,nan,nan,'Instruction','General Fund',nan,'School ','Extra Duty/Overtime',nan,'Special Education',nan,'General',nan,nan,nan,nan,-0.49
+603,0,nan,nan,'General Purpose School',nan,'District Wide Resources','Personal Services - Teachers','TEACHER -  DAYS','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',242.63
+604,nan,nan,'NON-PROJECT',nan,'Teacher Secondary (Middle) ',nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-21.94
+605,nan,nan,'Instruction','General Fund',nan,'School to Work','Field Trips',nan,'Career and Technology',nan,'General',nan,nan,nan,nan,12000.14
+606,1.004181055,nan,'NON-PROJECT',nan,'Teacher Secondary (Middle) ',nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL MIDDLE/JUNIOR HIGH SCH','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,56879.18365
+607,1,nan,'Instruction','General Fund','TCHR ASST- SP E','School ','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,35174.43964
+608,nan,nan,'COMPUTERS FOR CHILDREN TECHNOL',nan,'Computer Lab Technician ',nan,'SALARIES OF PART TIME EMPLOYEE','PARAPROFESSIONAL','GENERAL ELEMENTARY EDUCATION','LEVY OVERRIDE',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,539.30608
+609,1,nan,nan,'General Fund','Teacher - ESL 4th Grade','School ','Professional Salaries',nan,nan,nan,nan,nan,nan,nan,nan,55693.33474
+610,nan,nan,'Community Services','Title I- Part A',nan,'School ','General Supplies',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,297.34
+611,nan,nan,'Instruction','Title I- Part A',nan,'School ','Software',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,3999.71
+612,1,nan,'Instruction','General Fund','T-EL 3RD ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,52853.28367
+613,nan,nan,'Disadvantaged Youth *','Title I - Disadvantaged Children/Targeted Assistance',nan,nan,'CERTIFICATED EMPLOYEES SALARIES AND WAGES',nan,nan,'Special Instruction','Certificated Employees Salaries And Wages','TITLE I PUBLIC SALARIES',nan,nan,nan,103960.44
+614,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'School ','Extra Duty/Overtime',nan,'Undistributed',nan,'General',nan,nan,nan,nan,3103.44082
+615,0.5,nan,nan,'General Purpose School','CUSTODIAN',nan,'Personal Services - Custodians',' CUSTODIAN','Operations',nan,nan,nan,nan,nan,'Operation of Plant',20990.30564
+616,nan,nan,'EMPLOYEE RETIREMENT',nan,"'Teacher, Elementary '",nan,'RETIREMENT CONTRIB.','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,599.94
+617,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,33489.39
+618,nan,nan,'Community Services','Title I- Part A',nan,'School ','Extra Duty/Overtime',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,717.306
+619,0.6875,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",'FOOD PROD SP II','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,18363.65451
+620,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'School ','Food ',nan,'Undistributed',nan,'General',nan,nan,nan,nan,48551.35
+621,nan,nan,'NON-PROJECT',nan,'Secretary I ',nan,'EMPLOYEE BENEFITS','OFFICE/ADMINISTRATIVE SUPPORT','SUPPORT SERVICES-SCHOOL ADMIN','GENERAL FUND',nan,'SCHOOL ADMINISTRATION',nan,'Turnaround',nan,614.98
+622,nan,nan,'Instruction','General Fund',nan,'State Hospital',nan,nan,'Special Education',nan,'General',nan,nan,nan,nan,471.14
+623,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Substitute Teachers Certified','SUBSTITUTE TEACHER','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',56.76
+624,0.65,'All Campus Payroll',"'""Guidance, Counseling And Evaluation Services""'",'General Operating Fund',"'COUNSELOR, REGULAR'",'School ','Salaries And Wages For Teachers And Other Professi','COUNSELOR MIDDLE SCHOOL','Undistributed','Operations','Salaries And Wages For Teachers And Other Professi','REGULAR PAY',nan,nan,'Undistributed',42126.61691
+625,nan,nan,'TITLE III  ELA',nan,"'Teacher, Elementary '",'ENGLISH FOR SPEAKERS OF OTHER','ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','FEDERAL GDPG FUND',nan,'INSTRUCTIONAL STAFF',nan,'n/a',nan,75.30184
+626,nan,nan,'Instruction And Curriculum Development Services *','Special Trust',nan,nan,'Classroom Supplies',nan,nan,'Support Services - Instructional Staff','General Supplies *','FUSE PROGRAM',nan,nan,nan,-219.61
+627,nan,'All Campus Payroll','Instruction','General Operating Fund','TEACHER SUBSTITUTE POOL','School ','Salaries And Wages For Substitute Professionals','NON DEGREED SUBSTITUTE','Basic Educational Services','Operations','Salaries And Wages For Substitute Teachers','REGULAR PAY',nan,nan,'Basic Educational Services - District Objective ',87.36398707
+628,nan,nan,'Instructional Resource & Media Services','General Fund',nan,'School ','Reading Materials including Library Books',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,6899.96
+629,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund','NWSPPR/YRBK DIR','School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,3159.204161
+630,0.03,'Custodial Department','Facilities Maintenance And Operations','General Operating Fund',"'CUSTODIANS, SUBSTITUTES'",'Unallocated','Salaries Or Wages For Support Personnel','ANY CUS WHO IS NOT A SUPER ','Undistributed','Operations','Temporary / Part-Time Support Personnel','REGULAR PAY',nan,nan,'Custodial - Substitutes',673.6153065
+631,1,nan,'Plant Maintenance & Operations','General Fund','CUSTODIAN I','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,29019.04929
+632,1,nan,nan,nan,"'TEACHER,SCIENCE,GENERAL'",nan,nan,nan,nan,'LOCAL',nan,nan,'GENERAL EDUCATION',nan,nan,116340.0734
+633,nan,nan,'Instruction','General Fund','CL ','School ','Career Ladder',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,3276.855353
+634,1,nan,'Instruction','General Fund','T-EL 5TH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,54788.10833
+635,0.5,nan,'School Library Services *','General',"'TCHR, K-8 MEDIA SPEC'",'EN OTH CERTIFICATED PERSON','Regular *',nan,nan,'Support Services - Instructional Staff','Certificated Employees Salaries And Wages','SCHOOL BASED MANAGEMENT','TEACHER',nan,nan,51078.32564
+636,nan,nan,'Instruction','General Fund',nan,'School ','Reading Materials including Library Books',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,0.27
+637,1,nan,'Instruction','General Fund',' MATH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,65004.17299
+638,1,nan,'Instruction','General Fund','T-MS CATE TECH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,52964.2889
+639,0.004310345,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher, Super Sub D/D '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,166.3366984
+640,1.000026664,nan,'IDEA ARRA',nan,"'Teacher, Disability Access '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL',"'SPECIAL ED-M/M HIGH SEC, VOC'",'ARRA - STIMULUS',nan,'SPECIAL EDUCATION',nan,'Regular',nan,68195.40215
+641,0.5,nan,'Instruction','Title I- Part A','T-EL 5TH BIL',nan,'Professional Salaries',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,27967.14104
+642,nan,nan,'Instruction','Title I- Part A',nan,'School ','Miscellaneous Contracted Srvcs',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,4999.73
+643,nan,nan,'Community Services','General Fund',nan,'Learning Support Services','Employee Allowance',nan,'Accelerated Education',nan,'Mobile Phone',nan,nan,nan,nan,0.72
+644,nan,nan,'School Leadership','General Fund',nan,'School ','Professional Dues',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,349.97
+645,0.84375,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",'FOOD PROD SP V','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,23582.20022
+646,1,nan,nan,nan,'SPEECH PATHOLOGIST','RELATED SERVICES',nan,nan,nan,'LOCAL',nan,nan,'SPECIAL EDUCATION INSTRUCTION',nan,nan,120222.666
+647,0.885,nan,'Student Transportation','General Fund','BUS DRIVER','Transportation Office','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,25585.49493
+648,nan,nan,'Other Community Services *','Title I - Disadvantaged Children/Targeted Assistance',nan,nan,'Purchased Services',nan,nan,'Community Services','Purchased Services','ARRA-SW TEACHERS',nan,nan,nan,894.86
+649,0.160568561,nan,'NON-PROJECT',nan,'Project Manager ','CONSTRUCTION SERVICES','SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-OTHER','OTHER OPERATION & MAINTENANCE','CAPITAL RESERVE FUND',nan,'OPERATION AND MAINT OF PLANT','FACILITY SERVICES',nan,nan,13153.42687
+650,1,'HUMAN RESOURCES',nan,'School Federal Projects','DIR HUMAN CAPITAL STRATEGY','Central Office','Personal Services - Other Personnel','EXECUTIVE NC DIRECTR','District Administration',nan,nan,'RACE TO THE TOP',nan,nan,'Race to the Top',107046.206
+651,nan,nan,'Instruction','General Fund','CL ','State Hospital','Career Ladder',nan,'Special Education',nan,'General',nan,nan,nan,nan,3277.755353
+652,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'Educator Quality ','Reproduction Services',nan,'Undistributed',nan,'Professional Development Center (includes E-Campus)',nan,nan,nan,nan,3500.57
+653,nan,nan,'Community Services','Title I- Part A',nan,'Learning Support Services','Salaries for Support Personnel',nan,'Accelerated Education',nan,'Cycle  (used for grants)',nan,nan,nan,nan,-0.22
+654,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','COUNS- ELEM','School ','Professional Salaries',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,79719.48279
+655,nan,nan,"'Guidance, Counseling and Evaluation Services'",'IDEA-B Preschool',nan,'Special Ed Evaluation Services','Employee Travel  (including In-District and Out-of-District)',nan,'Special Education',nan,'General',nan,nan,nan,nan,2000.09
+656,0.5,nan,'Student Transportation','General Fund','BUS DRIVER','Transportation Office','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,15583.65179
+657,nan,nan,'MAINTENANCE AND OPERATING','General Fund',nan,nan,'SUPPLIES',nan,'Misc','MISCELLANEOUS',nan,nan,nan,nan,nan,204.29
+658,0.5,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",'FOOD PROD SP II','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,nan
+659,nan,nan,'Data Processing Services','General Fund',nan,'Management Info System','Part-Time Hourly',nan,'Undistributed',nan,'General',nan,nan,nan,nan,3277.885353
+660,1,nan,'Instruction','General Fund','T-EL PK ESL','School ','Professional Salaries',nan,'Prekindergarten',nan,'Pre-K',nan,nan,nan,nan,60278.04522
+661,nan,nan,'BASIC (FEFP K-12)             ','FEDERAL DIRECT                ',"'TEACHER, DR PREV-HIGH         '",'School ','EXTRA DUTY PAY-INSTRUCTIONAL  ',nan,nan,nan,nan,'SMALLER LEARN COMM',nan,nan,nan,676.53
+662,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund','DEPT CHAIR','School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,823.9235121
+663,nan,nan,'NON-PROJECT',nan,'Misc Fee Basis ','ATHLETICS & STUDENT ACTIVITIES','SALARIES OF PART TIME EMPLOYEE','OFFICE/ADMINISTRATIVE SUPPORT','MALE ATHLETICS/SPORTS ACTIVITI','PUPIL ACTIVITY FUND',nan,'COCURRICULAR ED/ACTIVITIES','ATHLETICS','n/a',nan,82.59
+664,nan,nan,'NON-PROJECT',nan,'(blank)','OPPORTUNITY SCHOOL','RENTAL OF EQUIPMENT','UNDESIGNATED','ITEMGB - BUSINESS SERVICES','ITEMGB - STATE GDPG FUND',nan,'SCHOOL ADMINISTRATION','ADULT VOC ED OPPORTUNITY','Alternative',nan,57212.82
+665,0.85,nan,'PUPIL TRANSPORTATION SERVICES ','GENERAL FUND                  ','BUS DRIVER                    ','TRANSPORTATION                ','OTHER SUPPORT PERSONNEL       ',nan,nan,nan,nan,nan,nan,nan,nan,25941.47692
+666,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',"'HC, BASKETBALL'",'School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,2075.065057
+667,0.75,nan,'NON-PROJECT',nan,'Business Services Spec ','PAYROLL','SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-OTHER','STAFF SERVICES','GENERAL FUND',nan,'CENTRAL','PAYROLL','n/a',nan,41902.28312
+668,nan,nan,'SAFE & DRUG FREE SCHLS/COMM',nan,"'Manager, Safe/Drug Free Sh '",'FEDERAL PROGRAMS/EXTERNAL RESO','SALARIES OF REGULAR EMPLOYEES','ADMINISTRATOR','SUPPORT SERVICES-INSTRUCTIONAL','FEDERAL GDPG FUND - FY ',nan,'INSTRUCTIONAL STAFF','SAFE & DRUG FREE SCHOOLS','n/a',nan,1621.73
+669,1,nan,'Instruction','General Fund','T-EL PK BIL','School ','Professional Salaries',nan,'Prekindergarten',nan,'Pre-K',nan,nan,nan,nan,52514.9562
+670,nan,'Virtual School','Instruction','General Operating Fund','NINTH GRADE SPECIALIST','School ','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR','Basic Educational Services','Operations','Extra Duty Wages','EXTENDED DAYS',nan,nan,'Basic Educational Services - District Objective ',208.5667137
+671,nan,nan,'NON-PROJECT',nan,'Dispatch II ','TRANSPORTATION','ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-OTHER','PUPIL TRANSPORTATION SERVICES','GENERAL FUND',nan,'STUDENT TRANSPORTATION','TRANSPORTATION','n/a',nan,4046.43736
+672,nan,nan,'FACILITIES ACQ AND CONST      ','MILLAGE                  ',nan,'School ','NON-CAPITALIZED  EQUIP        ',nan,nan,nan,nan,'SCHOOL OPERATING ACCOUNT      ',nan,nan,nan,4248.76
+673,nan,nan,'SCHOOL IMPROVEMENT GRANT',nan,"'Teacher, Elementary '",nan,'ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','FEDERAL GDPG FUND - FY ',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,23.19072
+674,nan,nan,'PUPIL SERVICES','Special Education',nan,'ADMIN. SERVICES','SUPPLIES',nan,"'ARRA - IDEA Title VI,B Flow Thru funds'",'TITLE VIB FLOWTHRU ARRA OF ',nan,nan,nan,nan,nan,-1376.03
+675,nan,nan,'Curriculum & Instructional Staff Development','Title I- Part A',nan,'School ','General Supplies',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,5999.95
+676,nan,nan,'NON-PROJECT',nan,'Secretary I ',nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-45.06
+677,nan,nan,'STAFF SERVICES                ','GENERAL FUND                  ',"'TEACHER ASSISTANT, ASD        '",'STAFF DEV AND INSTR MEDIA     ','WORKSHOP PARTICIPANT          ',nan,nan,nan,nan,nan,nan,nan,nan,56.07
+678,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'Educator Quality ',nan,nan,'Accelerated Education',nan,'AYP-Secondary',nan,nan,nan,nan,3609.57
+679,nan,'All Campus Payroll','Instruction','General Operating Fund',"'CLASSROOM AIDE, PRE-K'",'School ','Salaries Or Wages For Support Personnel','AIDE','PRE-K','State Ed. Allotment','Salaries Or Wages For Support Personnel','REGULAR PAY',nan,nan,nan,974.4512416
+680,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Substitute Teachers Certified','SUBSTITUTE TEACHER','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',2372.71
+681,1,nan,nan,'General Fund','Teacher-Music',nan,nan,'MS INSTRUMENTAL MUSIC ','MIDDLE SCHOOL PROGRAM  6-8',nan,nan,nan,nan,nan,nan,74278.61
+682,0.65625,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",'FOOD PROD SP II','Early Childhood Center','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,17904.73894
+683,0.834524071,nan,'NON-PROJECT',nan,'Reading & Writing Asst ',nan,'SALARIES OF PART TIME EMPLOYEE','PARAPROFESSIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,18276.57809
+684,0,nan,'BASIC (FEFP K-12)             ','CONVERSION CHARTER SCHOOLS    ','SUB TEACHER ALL               ','CHARTER','OTHER PERSONAL SERVICES       ',nan,nan,nan,nan,nan,nan,nan,nan,153.78
+685,nan,nan,'TITLE I A - ARRA',nan,"'Teacher, Summer School '",'ALL SCHOOLS-UNDISTRIBUTED','ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','ARRA - STIMULUS',nan,'REGULAR INSTRUCTION',nan,'n/a',nan,3169.0032
+686,nan,nan,'IMPROVEMENT OF INSTR SERV','General Fund',nan,nan,'DUES AND FEES',nan,'STAFF DEVELOPMENT','STAFF DEVELOPMENT',nan,nan,nan,nan,nan,653.27
+687,1,nan,'Instruction','General Fund',' AD SOC SC','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,57577.93387
+688,nan,'Instruction And Curriculum','Instruction','Head Start','TEACHER SUBSTITUTE POOL','School ','Salaries And Wages For Substitute Professionals','DEGREED SUBSTITUTE','PRE-K','Head Start','Salaries And Wages For Substitute Teachers','REGULAR PAY',nan,nan,'Regular Salary',471.5999306
+689,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Substitute Teachers Certified','RETIREE SUBSTITUTE TEACHER','Instruction - Regular',nan,nan,nan,nan,nan,'Elementary School Reading',66.46
+690,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'School ','Extra Duty/Overtime',nan,'Undistributed',nan,'General',nan,nan,nan,nan,9269.112
+691,1,nan,'Security & Monitoring Servicess','Campus Police','SR. POLICE OFCR','District Police','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,60519.23048
+692,1,nan,nan,'General Fund','Teacher - HS CTE Automotive','School ','Professional Salaries',nan,nan,nan,nan,nan,nan,nan,nan,55692.52474
+693,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',"'ASST COACH,NVFB'",'School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,4986.147811
+694,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'School ','Non Food',nan,'Undistributed',nan,'Warehouse Operations',nan,nan,nan,nan,1538.62
+695,nan,nan,nan,nan,'GRADE LEVEL/DEPT CHA',nan,'Department Chair Supp',nan,nan,nan,nan,nan,nan,nan,nan,2897.32
+696,1,nan,'General Administration','General Fund','ADMIN ASST III','Human Resources','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,43699.76693
+697,0.047413793,nan,'NON-PROJECT',nan,'Helper Oper Maint (Summer) ','ALL SCHOOLS-UNDISTRIBUTED','SALARIES OF PART TIME EMPLOYEE',"'CRAFTS, TRADES, AND SERVICES'",'CARE & UPKEEP OF BLDG SERVICES','GENERAL FUND',nan,'OPERATION AND MAINT OF PLANT','CUSTODIAL-SCHOOLS','n/a',nan,1008.061128
+698,nan,nan,'ELA S - TEACHING SPANISH ONLY',nan,"'Teacher, Elementary '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,979.34
+699,1,nan,'General Administration','General Fund','COORD-SUB SVCS','Human Resources','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,76669.55098
+700,1,nan,'Instruction','General Fund','T-EL 4TH ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,53190.71357
+701,0,'INSTRUCTIONAL TECHNOLOGY      ','INST STAFF TRAINING SVCS      ','GENERAL FUND                  ','SUB TEACHER ALL               ','EXEC DIR INFO/INSTRUC TECH SER','OTHER PERSONAL SERVICES       ',nan,nan,nan,nan,'EXEC DIR OF IT                ',nan,nan,nan,81.84
+702,0.76,'All Campus Payroll','Instruction','General Operating Fund',"'TEACHER, REGULAR'",'School ','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR','Basic Educational Services','Operations','Salaries And Wages For Teachers And Other Professi','REGULAR PAY',nan,nan,'Basic Educational Services - District Objective ',48249.39681
+703,nan,nan,'Instruction','IDEA-B Formula',nan,'School ','General Supplies',nan,'Special Education',nan,'Special Education',nan,nan,nan,nan,140.19
+704,nan,nan,nan,nan,'FOOTBALL COACH ASSIS',nan,'Coaching Supplement',nan,nan,nan,nan,nan,nan,nan,nan,3955.204522
+705,nan,nan,'General Administration','General Fund',nan,'Office of Planning and Community Relations','Food/Refreshment',nan,'Undistributed',nan,'General',nan,nan,nan,nan,-0.4
+706,1,nan,'Instruction','General Fund','T-HS ENGLISH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,53190.32357
+707,1,nan,'Student Transportation','General Fund','BUS MONITOR','Transportation Office','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,30291.70717
+708,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Substitute Teachers Certified','SUBSTITUTE TEACHER','Instruction - CTE',nan,nan,nan,nan,nan,'Career & Technical Instruction',177.07
+709,nan,nan,'MONTESSORI TUITION BASED',nan,'General Assignment ',nan,'EMPLOYEE BENEFITS','PARAPROFESSIONAL','GENERAL ELEMENTARY EDUCATION','DISTRICT SPECIAL REVENUE FUNDS',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,3007.97
+710,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund','FTO DIRECTOR','School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1598.220612
+711,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'Office of Facilities','Rental: All Others',nan,'Undistributed',nan,'General',nan,nan,nan,nan,94481.8
+712,nan,nan,'Instruction','General Fund','CL ','School ','Career Ladder',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,3277.525353
+713,nan,'All Campus Payroll','Extracurricular Activities','General Operating Fund',"'TEACHER, REGULAR'",'School ','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR','Athletics And Related Activities','Operations','Extra Duty Wages','EX-CURR ATHLETIC',nan,nan,nan,4806.922825
+714,0.2,nan,'School Leadership','Title I Priority Schools Grant Program','ACCTG TECH III','School ','Salaries for Support Personnel',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,9200.787887
+715,nan,'Instruction And Curriculum','Curriculum Development And Instructional Staff Dev','Esea Title Ii Part A Teacher & Principal Training',nan,'School ','Miscellaneous Operating Costs',nan,'Accelerated Education',nan,'Fees (Not Associated With Travel)',nan,'TRAVEL',nan,'Creating Qualified Teachers',480.09
+716,nan,nan,'TITLE II-PART A-TEACHER QUALIT',nan,"'Tchr Admin Asst, Elem Sch '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','LITERACY COACHES','FEDERAL GDPG FUND - FY ',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,234.47
+717,0,nan,nan,'School Federal Projects',nan,nan,'Personal Services - Substitute Teachers Certified','SUBSTITUTE TEACHER','Instruction - Regular',nan,nan,'EDUCATION JOBS FUND',nan,nan,'Education Jobs Program',213.16
+718,nan,nan,'ED TECH  GOB',nan,'(blank)',nan,'NON-CAPITAL EQUIPMENT','UNDESIGNATED','GENERAL ELEMENTARY EDUCATION','BOND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,7803.9
+719,nan,'All Campus Payroll','Instruction','General Operating Fund',"'TEACHER, BILINGUAL EDUCATION'",'School ','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR','Bilingual Education And Special Language Programs','Operations','Critical Needs Incentive','CRITICAL NEEDS SUPPLEMENT',nan,nan,nan,4169.479613
+720,nan,'Instruction And Curriculum','Instruction',"'""Title  Part A Improving Basic Programs""'","'TEACHER, REGULAR'",'School ','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR',"'""Title I, Part A Schoolwide Activities Related To State Comp'","'""Title  Part A Improving Basic Programs""'",'Extended Day','MISCELLANEOUS ',nan,nan,nan,234.8458157
+721,nan,nan,'NON-PROJECT',nan,'Teacher Secondary (Middle) ',nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-1006.73
+722,1,nan,'Instruction','General Fund','T-EL 1ST BIL','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,53189.87357
+723,0.225007268,nan,'NON-PROJECT',nan,'Psychologist ','PSYCHOLOGICAL SERVICES','SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','PSYCHOLOGICAL SERVICES','GENERAL FUND',nan,'STUDENTS','PSYCHOLOGICAL SERVICES','n/a',nan,21416.37519
+724,nan,nan,'ESL',nan,"'Teacher, Elementary '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,0.45
+725,1,nan,'Instruction','General Fund','T-HS PHYS/CHEM','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,57578.18387
+726,1,nan,'Instruction','General Fund',' MATH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,52514.5262
+727,1,nan,'Instruction','General Fund','T-EL/SE SOC BEH','School ','Professional Salaries',nan,'Special Education',nan,'General',nan,nan,nan,nan,52739.60087
+728,nan,nan,'MAINTENANCE AND OPERATING','General Fund',nan,nan,'SUPPLIES',nan,'Misc','MISCELLANEOUS',nan,nan,nan,nan,nan,704.64
+729,1,nan,'Instruction','General Fund','T-EL 5TH ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,61877.00998
+730,1,nan,'Instruction','General Fund','T-EL KIN ESL',nan,'Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,52515.2762
+731,nan,nan,'School Leadership','General Fund','TRAVEL','School ','Employee Allowance',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1034.562692
+732,nan,'Instruction And Curriculum','Curriculum Development And Instructional Staff Dev',"'""Title  Part A Improving Basic Programs""'",'TEACHER SUBSTITUTE POOL','Undistributed','Salaries And Wages For Substitute Professionals','CERTIFIED SUBSTITUTE','Accelerated Education',"'""Title  Part A Improving Basic Programs""'",'Extra Substitute Teachers Grant Funded','MISCELLANEOUS ',nan,nan,'Multilingual Dist Prof Development',91.99
+733,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'School ','Food/Refreshment',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,5500.1
+734,nan,'Instruction And Curriculum','Instruction','General Operating Fund',"'TEACHER, REGULAR'",'Summer School','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR',"'""Title I, Part A Schoolwide Activities Related To State Comp'",'State Ed. Allotment','Extended Year','EXTENDED YEAR',nan,nan,'9th Grade Summer Remediation',520.1402485
+735,1,nan,'General Administration','General Fund','WEB MANAGER','Office of Planning and Community Relations','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,66921.9914
+736,1,nan,nan,'General Fund','School Resource Officer',nan,nan,'RESOURCE OFFICER (NO SUB REQD) ','Misc',nan,nan,nan,nan,nan,nan,31263.93
+737,nan,nan,'FOUNDATION GRANT',nan,'(blank)',nan,'COMPUTER SOFTWARE','UNDESIGNATED','GENERAL ELEMENTARY EDUCATION','DISTRICT SPECIAL REVENUE FUNDS',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,590.31
+738,nan,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher, Short Term Sub '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,7.44
+739,nan,nan,'Instruction And Curriculum Development Services *','Special Trust',nan,nan,'EQUIPMENT *',nan,nan,'Support Services - Instructional Staff','Equipment *','ITEMS FOUNDATION-AUG ',nan,nan,nan,-403.76
+740,0,nan,nan,'ITEMFA Schools Partnership',nan,nan,'Personal Services - Other Compensation','TIME CARD CERTIFIEDAddl','Support - TAP',nan,nan,'TEACHER ADVANCEMENT PROGRAM',nan,nan,'Teacher Advancement Program (TAP)',2311.32
+741,nan,nan,nan,nan,'FOOD PROD SUB',nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,15.89
+742,0.500015454,nan,'ELA E-TEACHING SHELTERED ENG',nan,"'Teacher, Elementary '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,28865.88364
+743,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,'Science',nan,nan,nan,nan,499.77
+744,nan,nan,'ELPA - PRESCHOOL PROG',nan,'Reading & Writing Asst ','EARLY CHILDHOOD EDUCATION','SALARIES OF PART TIME EMPLOYEE','PARAPROFESSIONAL','EARLY CHILDHOOD','ITEMGD PRESCHOOL PROGRAM',nan,'REGULAR INSTRUCTION','EARLY EDUCATION','n/a',nan,592.3576
+745,nan,nan,'ELA E-TEACHING SHELTERED ENG',nan,"'Teacher, Elementary '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,120.85
+746,nan,nan,'EMPLOYEE RETIREMENT',nan,'Special Needs Bus Asst ','GARAGE','RETIREMENT CONTRIB.','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,126.84
+747,0.419917074,nan,'NON-PROJECT',nan,"'Teacher, Elementary '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL K-8 EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,18597.54652
+748,0.6604,nan,'Student Transportation','General Fund','BUS DRIVER','Transportation Office','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,21124.82259
+749,0,'SUBSTITUTE TEACHER',nan,'General Purpose School',nan,nan,'Personal Services - Substitute Teachers Certified','SUBSTITUTE TEACHER','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',70.67
+750,nan,nan,'Instruction','General Fund','CL ','School ','Career Ladder',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,3277.555353
+751,nan,nan,'School Leadership','General Fund',nan,'School ','Employee Travel  (including In-District and Out-of-District)',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,1999.61
+752,nan,nan,'NON-PROJECT',nan,"'Teacher, Super Sub Rtd D/D '",nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-11.39
+753,1,nan,nan,'General Fund','Teacher-Elementary ',nan,nan,'4TH GRADE ','UPPER ELEMENTARY GRADES PROGRAM ',nan,nan,nan,nan,nan,nan,74221.96
+754,nan,nan,'ELA S - TEACHING SPANISH ONLY',nan,"'Teacher, Elementary '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,12430.40344
+755,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,'Band',nan,nan,nan,nan,500.19
+756,nan,nan,'Curriculum & Instructional Staff Development','Title I- Part A',nan,'School ','Food/Refreshment',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,2999.71
+757,1.000032214,nan,'SPECIAL ED. - MILD/MODERATE',nan,'Teacher',nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','SPECIAL EDUCATION','GENERAL FUND',nan,'SPECIAL EDUCATION',nan,'Regular',nan,46171.86357
+758,nan,nan,'NON-PROJECT',nan,"'Teacher, Elementary '",nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-11.16
+759,0.025862069,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher, Short Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,659.1176308
+760,nan,nan,'FUND FOR THE IMPROVEMENT OF ED',nan,"'Teacher, Short Term Sub '",'HIGH SCHOOL EDUCATION','EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','FEDERAL GDPG FUND - FY ',nan,'INSTRUCTIONAL STAFF','HUMANITIES','n/a',nan,1.78
+761,0.78125,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",'FOOD PROD SP II','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,21382.62031
+762,1,nan,'Security & Monitoring Servicess','General Fund','SECURITY GUARD','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,28730.57718
+763,1,nan,'Instruction','General Fund','T-EL 1ST BIL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,54877.36008
+764,nan,nan,'TITLE I A - ARRA',nan,"'Teacher, Short Term Sub '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','ARRA - STIMULUS',nan,'INSTRUCTIONAL STAFF','TEACHER LEARNING & LEADERSHIP','Regular',nan,1.59
+765,nan,nan,'OPERATION OF PLANT            ','GENERAL FUND                  ','CUSTODIAN                     ','School ','ALL OTHER SUPPLEMENTS         ',nan,nan,nan,nan,nan,nan,nan,nan,299.44
+766,1,nan,'Instruction','General Fund','T-EL 2ND','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,52513.9062
+767,0.8958,nan,'Student Transportation','General Fund','BUS DRIVER','Transportation Office','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,26156.25842
+768,nan,nan,'Instructional Leadership','General Fund',nan,'Assoc Superintendent-Area  Elementary ',nan,nan,'Undistributed',nan,'General',nan,nan,nan,nan,1755.26
+769,nan,nan,'Instruction','General Fund','CL ','School ','Career Ladder',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,3277.225353
+770,nan,nan,'Instructional Resource & Media Services','General Fund',nan,'School ',nan,nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,500.13
+771,nan,nan,'Instructional Leadership','General Fund',nan,'Core Curriculum','Part-Time Hourly',nan,'Undistributed',nan,'Community Ed-English/Sec Lang',nan,nan,nan,nan,72099.30777
+772,nan,nan,'SUPPORT SERVICES-CENTRAL','Title II',nan,'PROF. LEARNING','DUES AND FEES',nan,"'Title II-A, Improving Teacher Quality'",'TITLE II-A-IMPROVING TEACHER QUALITY',nan,nan,nan,nan,nan,1935.7
+773,1,nan,'Instruction','General Fund','T-EL 5TH BIL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,52964.6989
+774,0.034048542,nan,'EXCEPTIONAL                   ','FED THRU STATE-CASH ADVANCE   ',"'TEACHER, TITLE I-ELEM         '",'School ','OTHER CERTIFIED               ',nan,nan,nan,nan,'IDEA  PART B                  ',nan,nan,nan,2032.723554
+775,nan,nan,'School Leadership','General Fund',nan,'School ',nan,nan,'Gifted and Talented',nan,'Magnet School',nan,nan,nan,nan,3098.68
+776,nan,nan,'Instruction','General Fund',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'High School Allotment',nan,'General',nan,nan,nan,nan,49159.1403
+777,nan,'Instruction and Curriculum','Curriculum Development And Instructional Staff Dev','General Operating Fund',"'TEACHER, REGULAR'",'Undistributed','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR','Undistributed','Operations','Extra Duty Wages','MISCELLANEOUS ',nan,nan,'Undistributed',25.50009724
+778,nan,nan,'INSTRUCTION','Schoolwide Schools',nan,nan,'SUPPLIES',nan,'Misc','SCHOOL-WIDE SCHOOL PGMS FOR TITLE GRANTS',nan,nan,nan,nan,nan,nan
+779,1,nan,nan,nan,'TEACHER',nan,nan,nan,nan,'LOCAL',nan,nan,'GENERAL EDUCATION',nan,nan,93726.51795
+780,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','COUNS- ELEM','School ','Professional Salaries',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,72168.63745
+781,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Other Compensation','Career Ladder I/Ext Learning','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',570.23
+782,nan,nan,'TITLE I',nan,"'Teacher, Elementary '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','FEDERAL GDPG FUND - FY ',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,64575.93863
+783,1,nan,'Student Transportation','General Fund','BUS DRIVER','Transportation Office','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,31168.28358
+784,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',"'AC, SOCCER'",'School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,4533.004154
+785,nan,nan,'TITLE VI-IDEA B-MAIN',nan,'Speech Language Pathologst ','SPECIAL EDUCATION','EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','SPECIAL EDUCATION-S/L-MAST','FEDERAL GDPG FUND - FY ',nan,'SPECIAL EDUCATION',nan,'n/a',nan,462.29
+786,nan,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund',nan,'School ','Reading Materials including Library Books',nan,'Accelerated Education',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,399.45
+787,1,nan,"'Guidance, Counseling and Evaluation Services'",'IDEA-B Formula','LSSP','Special Ed Evaluation Services','Professional Salaries',nan,'Special Education',nan,'General',nan,nan,nan,nan,83578.24222
+788,1,nan,'BASIC (FEFP K-12)             ','GENERAL FUND                  ',"'TEACHER, THIRD                '",'School ','CLASSROOM TEACHER             ',nan,nan,nan,nan,nan,nan,nan,nan,47680.24109
+789,nan,nan,'General Administration','General Fund',nan,'Legal Services','Reproduction Services',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1379.67
+790,nan,nan,'School Leadership','General Fund',nan,'School ','Extra Duty/Overtime',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,2784.86705
+791,nan,nan,'Instruction','General Fund',nan,'School ','Consulting Services',nan,'Gifted and Talented',nan,'Magnet School',nan,nan,nan,nan,999.43
+792,nan,nan,'TEXTBOOKS FOR ',nan,'(blank)',nan,'BOOKS AND PERIODICALS','UNDESIGNATED','ENGLISH LANGUAGE ARTS',' MILL LEVY',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,14.84
+793,nan,nan,'Instruction','General Fund',nan,'School ','Field Trips',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,800.35
+794,nan,nan,'Instruction','General Fund',nan,'Early Childhood Center','Extra Duty/Signing Bonus Pay',nan,'Prekindergarten',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,3121.309515
+795,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'Finance','Insurance & Bonding costs',nan,'Undistributed',nan,'Insurance-Vehicles',nan,nan,nan,nan,502246.18
+796,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',"'ASST COACH,NVFB'",'School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,4570.167377
+797,nan,nan,'Service Area Direction *','General',nan,nan,'Technical Equipment',nan,nan,'Support Services - Instructional Staff','Equipment *','INVENTORY & DISTRIBUTION',nan,nan,nan,1721.95
+798,nan,nan,'Community Services',' Century Community Learning',nan,'School ',nan,nan,'Accelerated Education',nan,'Cycle  (used for grants)',nan,nan,nan,nan,391.76
+799,nan,nan,'EMPLOYEE RETIREMENT',nan,'ELA General Assignment ',nan,'RETIREMENT CONTRIB.','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,113.19
+800,1,nan,'Instruction','General Fund','SPEECH PATH-BIL','Special Education','Professional Salaries',nan,'Special Education',nan,'Speech Therapist',nan,nan,nan,nan,75871.57695
+801,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'Science and Health','Employee Travel  (including In-District and Out-of-District)',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1431.96
+802,1,nan,'Instruction','General Fund','T-EL 2ND ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,53526.19441
+803,nan,nan,'NON-PROJECT',nan,'Tutor Paraprofessional ',nan,'EMPLOYER PD MED CONTRIBUTION','PARAPROFESSIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,294.35
+804,nan,nan,'General Administration','General Fund',nan,'Legal Services','Food/Refreshment',nan,'Undistributed',nan,'Intergovernment Relation',nan,nan,nan,nan,249.73
+805,nan,nan,'Instruction','General Fund',nan,'School ','Field Trips',nan,'Basic Educational Services',nan,'Band',nan,nan,nan,nan,0.1
+806,nan,nan,'ADM  GOB',nan,'Custodian - PT -  Jobs ','CONSTRUCTION SERVICES','SALARIES FOR OVERTIME',"'CRAFTS, TRADES, AND SERVICES'",'OTHER FACILITIES ACQUISITION','BUILDING FUND',nan,'OTHER FACILITIES ACQUISITION','BOND EXPENDITURES',nan,nan,333.70712
+807,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'School ','Food/Refreshment',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,799.42
+808,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,'Family Consumer Science',nan,nan,nan,nan,1922.47
+809,nan,nan,'Instruction','General Fund',nan,'School ',nan,nan,'Basic Educational Services',nan,'Theatre Arts',nan,nan,nan,nan,-0.39
+810,nan,nan,'IMPROVEMENT OF INSTR SERV','General Fund',nan,'PROF. LEARNING','SUPPLIES',nan,'STAFF DEVELOPMENT','STAFF DEVELOPMENT',nan,nan,nan,nan,nan,1656.66
+811,1,nan,'Instruction','Title I- Part A',' MATH','School ','Professional Salaries',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,55200.61919
+812,nan,nan,'NON-PROJECT',nan,"'Teacher, Elementary '",'PERSONNEL-PAID LEAVE','EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','STAFF SERVICES','GENERAL FUND',nan,'CENTRAL','UNASSIGNED PERS/PAID LEAVES','n/a',nan,nan
+813,0.15526384,nan,'NON-PROJECT',nan,'Food Service Worker II ',nan,'SALARIES OF PART TIME EMPLOYEE',"'CRAFTS, TRADES, AND SERVICES'",'FOOD PREPARATION/SERVING','FOOD SERVICE FUND',nan,'FOOD SERVICES OPERATIONS','FOOD SERVICES','Regular',nan,2611.558658
+814,0.34,nan,'Instruction','General Fund','T-HS CHEMISTRY','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,17893.53446
+815,1,nan,'Instruction','General Fund','T-EL ART','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,57578.11387
+816,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'School ','Equipment Maintenance Repairs',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1899.26
+817,1,nan,'Plant Maintenance & Operations','General Fund','CUSTODIAN I','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,33709.62983
+818,nan,nan,'School Leadership','General Fund',nan,'School ','Extra Duty/Overtime',nan,'Undistributed',nan,'General',nan,nan,nan,nan,0.17
+819,1,nan,'Instruction','General Fund','TCHR ASST- SP E','School ','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,31092.75928
+820,nan,'Custodial Department','Facilities Maintenance And Operations','General Operating Fund',nan,'School ','Supplies For Maintenance And /Or Operations',nan,'Undistributed',nan,'Supplies For Maintenance And /Or Operations',nan,nan,nan,nan,8770.66
+821,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Substitute Teachers Certified','SUBSTITUTE TEACHER','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',143.3067748
+822,1,nan,'Instruction','General Fund','T-EL 3RD ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,60278.35522
+823,nan,'Performing Arts Department','Extracurricular Activities','General Operating Fund',"'TEACHER, REGULAR'",'Unallocated','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR','Undistributed','Operations','Extra Duty Wages','EXTENDED DAYS',nan,nan,'Undistributed',149.5025124
+824,1.000003852,nan,'NON-PROJECT',nan,"'Specialist II, PC Apps '",'CUSTOMER RELATIONS MANAGEMENT','SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-OTHER','INFORMATION SYSTEMS SERVICES','GENERAL FUND',nan,'CENTRAL','ITEMGG-CUSTOMER RELATIONS MGMT','n/a',nan,77190.54413
+825,nan,nan,'Instruction','Title I- Part A',nan,'State/Federal Compliance & Accountability',nan,nan,'Accelerated Education',nan,'Distributed from departments',nan,nan,nan,nan,23896.24
+826,nan,nan,'Instruction','General Fund',nan,'School ','Part-Time Hourly',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,722.8085962
+827,nan,nan,'General Administration','General Fund','CELL PHONE','Office of Planning and Community Relations','Employee Allowance',nan,'Undistributed',nan,'Mobile Phone',nan,nan,nan,nan,523.9708565
+828,0.65,'All Campus Payroll',"'""Guidance, Counseling And Evaluation Services""'",'General Operating Fund',"'COUNSELOR, REGULAR'",'School ','Salaries And Wages For Teachers And Other Professi','COUNSELOR MIDDLE SCHOOL','Undistributed','Operations','Salaries And Wages For Teachers And Other Professi','REGULAR PAY',nan,nan,'Undistributed',51085.32983
+829,0.004310345,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher, Short Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','GENERAL MIDDLE/JUNIOR HIGH SCH','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,109.1179385
+830,nan,nan,'Instruction','Title I- Part A',nan,'School ','Part-Time Hourly',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,37287.957
+831,nan,nan,'Non-Public School Services *','Auxiliary Services',nan,nan,'Electricity *',nan,nan,'Community Services','Utilities Services','AUX SERV -- MOBILE UNITS',nan,nan,nan,14899.72
+832,0,nan,'INST STAFF TRAINING SVCS      ','GENERAL FUND                  ','CLERICAL/TCHR ASST SUB        ','School ','OTHER PERSONAL SERVICES       ',nan,nan,nan,nan,nan,nan,nan,nan,55.11
+833,nan,nan,'OPERATION OF PLANT            ','GENERAL FUND                  ','CUSTODIAN                     ','School ','ALL OTHER SUPPLEMENTS         ',nan,nan,nan,nan,nan,nan,nan,nan,149.3
+834,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Substitute Teachers Certified','SUBSTITUTE TEACHER','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',212.43
+835,1,nan,'Plant Maintenance & Operations','General Fund','CARPENTER','Service Center Bldg & Grounds','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,51239.518
+836,0.2,nan,'Cocurricular & Extra Curricular Activities','Athletics','T-HS ATHL','School ','Professional Salaries',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,10705.04688
+837,nan,nan,'General Administration','General Fund',nan,'Student Services','Reading Materials including Library Books',nan,'Undistributed',nan,'General',nan,nan,nan,nan,699.66
+838,0.2,nan,'Instruction','General Fund','T-HS ESL ENGLSH','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,12645.19962
+839,nan,nan,'School Leadership','General Fund',nan,'School ','Extra Duty/Overtime',nan,'Undistributed',nan,'General',nan,nan,nan,nan,-0.06
+840,nan,nan,'Curriculum & Instructional Staff Development','General Fund','TRAVEL','Special Education','Employee Allowance',nan,'Special Education',nan,'General',nan,nan,nan,nan,1035.622692
+841,1,nan,'School Leadership','General Fund','HS PRINCIPAL','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,129655.7702
+842,0,nan,'BASIC (FEFP K-12)             ','GENERAL FUND                  ','SUB TEACHER ALL               ','School ','OTHER PERSONAL SERVICES       ',nan,nan,nan,nan,nan,nan,nan,nan,198.38
+843,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'Office of Facilities','Professional Services',nan,'Undistributed',nan,'General',nan,nan,nan,nan,9999.96
+844,1.000022801,nan,'NON-PROJECT',nan,'Teacher Secondary (Middle) ',nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL MIDDLE/JUNIOR HIGH SCH','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Turnaround',nan,74729.04298
+845,nan,nan,'NON-PROJECT',nan,'Budget Analyst ','BUDGETARY SERVICES','CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-55.93
+846,nan,nan,'LIGHTS ON AFTER SCHOOL ',nan,"'Teacher, Elementary '",nan,'ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','AFTER SCHOOL PROGRAMS','DISTRICT SPECIAL REVENUE FUNDS',nan,'COCURRICULAR ED/ACTIVITIES',nan,'Regular',nan,1370.59608
+847,1,nan,nan,'General Fund','Teacher',nan,nan,'MS SOCIAL SCIENCE ','PROGRAM FOR INTELLECTUALLY GIFTED STUDENTS: CATEGORY VI',nan,nan,nan,nan,nan,nan,86853.02
+848,nan,nan,'Data Processing Services','General Fund','CELL PHONE','Network Support','Employee Allowance',nan,'Undistributed',nan,'Mobile Phone',nan,nan,nan,nan,655.6210707
+849,0.025,nan,nan,nan,'Teacher (Afterschool)','OFFICE OF COMMUNITY & EDUCATION PROGRAMS',nan,nan,nan,"'SUMMER ED, ARTS & SPORTS - SEAS'",nan,nan,'AFTERSCHOOL PROGRAMS',nan,nan,2398.060542
+850,nan,nan,'SPECIAL EDUCATION',nan,'Elementary Spec Ed Para ',nan,'EMPLOYEE BENEFITS','PARAPROFESSIONAL','SPECIAL EDUCATION','GENERAL FUND',nan,'SPECIAL EDUCATION','PRESCHOOL - SPECIAL ED','Regular',nan,1804.39
+851,1,nan,'Student Transportation','General Fund','BUS DRIVER','Transportation Office','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,31168.31358
+852,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund','SPED DEPT CHAIR','School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1445.442029
+853,1,nan,'School Leadership','General Fund','CLERK III- SCH','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,35911.91252
+854,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',nan,'Athletics-External ','Employee Travel  (including In-District and Out-of-District)',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,20000.84
+855,1,nan,'Instructional Leadership','General Fund','ASST DIR-DU LAN','Bilingual / ESL','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,101015.3609
+856,nan,nan,'School Leadership','General Fund',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'Accelerated Education',nan,'After-School Detention',nan,nan,nan,nan,1268.067822
+857,nan,nan,'Instruction','General Fund','CL ','School ','Career Ladder',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,3277.195353
+858,nan,nan,'Data Processing Services','General Fund','TRAVEL','Management Info System','Employee Allowance',nan,'Undistributed',nan,'General',nan,nan,nan,nan,2870.905689
+859,nan,nan,'Instruction','General Fund','CL ','School ','Career Ladder',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,3277.855353
+860,1,nan,nan,'General Fund','Occupational Therapist','Special Education','Professional Salaries',nan,nan,nan,nan,nan,nan,nan,nan,63425.76254
+861,1,nan,'School Leadership','General Fund','CLERK IV- SCH','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,33108.89668
+862,1,nan,'Instruction','General Fund','T-EL KIN BIL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,53189.41357
+863,nan,nan,'EDUCATIONAL MEDIA SERVICE','General Fund',nan,nan,'BOOKS (OTHER THAN TEXTBOOKS) AND PERIODICALS',nan,'MEDIA CENTERS','MEDIA CENTERS',nan,nan,nan,nan,nan,-1377.91
+864,nan,nan,'NON-PROJECT',nan,"'Coordinator, Educational '",'INTERDISCIPLINARY','CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-133.2
+865,nan,nan,'Instruction','General Fund',nan,'School ','Substitute Teachers',nan,'Basic Educational Services',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,6966.030044
+866,nan,nan,'Instructional Leadership','General Fund','TRAVEL','Special Education','Employee Allowance',nan,'Special Education',nan,'General',nan,nan,nan,nan,2870.565689
+867,nan,nan,'NON-PROJECT',nan,'Office Support II ','IST - SYSTEMS SUPPORT','SALARIES FOR OVERTIME','OFFICE/ADMINISTRATIVE SUPPORT','INFORMATION SYSTEMS SERVICES','GENERAL FUND',nan,'CENTRAL','ITEMGG-INFO SYSTEMS TECHNOLOGY','n/a',nan,736.68216
+868,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','COUNS- MS','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,57649.95384
+869,nan,nan,'NON-PROJECT',nan,'Bus Driver - Relief ',nan,'EMPLOYEE BENEFITS',"'CRAFTS, TRADES, AND SERVICES'",'TRANSPORTATION-OPERATIONS','GENERAL FUND',nan,'STUDENT TRANSPORTATION','TRANSPORTATION','n/a',nan,4541.88
+870,nan,nan,'Extracurricular Activities','Campus Activity Funds',nan,'School ','Miscellaneous Operating Costs',nan,'Undistributed',nan,'Incentives (Participatory Activity)',nan,nan,nan,nan,132.16
+871,1,nan,nan,'General Fund','School Data Clerk',nan,nan,'DATA CLERK ','Misc',nan,nan,nan,nan,nan,nan,62286.52
+872,nan,nan,'RGN  GOB',nan,'(blank)',nan,'EQUIPMENT','UNDESIGNATED','OPERATION AND MAINT OF PLANT','BOND',nan,'OPERATION AND MAINT OF PLANT','BOND EXPENDITURES','Turnaround',nan,18349.28
+873,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund','DEPT CHAIR','School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,6043.528871
+874,1,nan,'School Leadership','General Fund','CLERK III- SCH','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,29492.83422
+875,nan,'All Campus Payroll','Instruction','General Operating Fund','TEACHER SUBSTITUTE POOL','School ','Salaries And Wages For Substitute Professionals','DEGREED SUBSTITUTE','Career And Technology','Operations','Salaries And Wages For Substitute Teachers','REGULAR PAY',nan,nan,nan,1036.987847
+876,0.994199965,nan,'NON-PROJECT',nan,'Secretary II ',nan,'SALARIES OF REGULAR EMPLOYEES','OFFICE/ADMINISTRATIVE SUPPORT','SUPPORT SERVICES-SCHOOL ADMIN','GENERAL FUND',nan,'SCHOOL ADMINISTRATION',nan,'Regular',nan,38610.84344
+877,nan,nan,'Instruction','IDEA-B Formula',nan,'School ','General Supplies',nan,'Special Education',nan,'Special Education',nan,nan,nan,nan,340.54
+878,1,nan,'Instruction','General Fund','T-EL 5TH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,54878.07008
+879,nan,nan,nan,nan,'EXTRA CURRICULAR SP',nan,'Extracurricular Supp',nan,nan,nan,nan,nan,nan,nan,nan,609.34
+880,nan,nan,'Instruction','General Fund',nan,'School 6-12','Professional Services',nan,'Accelerated Education',nan,'In Dist Charter College Prep',nan,nan,nan,nan,1084475.61
+881,nan,nan,'Instruction','General Fund',nan,'School ','Subs for Support Personnel',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,9057.501378
+882,nan,nan,'ELPA - PRESCHOOL PROG',nan,"'Teacher, Elementary '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','EARLY CHILDHOOD','ITEMGD PRESCHOOL PROGRAM',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,547.64
+883,nan,nan,'EMPLOYEE RETIREMENT',nan,'Temporary Employee ','ASSESSMENT & RESEARCH','RETIREMENT CONTRIB.','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,12.27
+884,nan,nan,'NON-PROJECT',nan,'Teacher Secondary (Middle) ',nan,'ADDITIONAL/EXTRA DUTY PAY/STIP','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','GENERAL FUND',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,48.80512
+885,nan,nan,'Instruction','General Fund',nan,'Pre-K Center','General Supplies',nan,'Special Education',nan,'Special Education',nan,nan,nan,nan,1170.12
+886,nan,nan,'EDUCATIONAL MEDIA SERVICE','General Fund',nan,nan,'SUPPLIES',nan,'MEDIA CENTERS','MEDIA CENTERS',nan,nan,nan,nan,nan,35.06
+887,nan,nan,'INSTRUCTION','General Fund',nan,nan,'SUPPLIES',nan,'PRIMARY GRADES PROGRAM ','PRIMARY GRADES PROGRAM ',nan,nan,nan,nan,nan,92.06
+888,1,nan,'Instruction','General Fund','T-EL KIN ESL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,60278.24522
+889,1,nan,nan,'General Purpose School','EDUCATIONAL ASSISTANT (CERA)',nan,'Personal Services - Education Assistants','EDUC ASST  - ELEM','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',26878.8386
+890,1,nan,'School Leadership','General Fund','HS ASST PRIN','School ','Professional Salaries',nan,'Undistributed',nan,'General',nan,nan,nan,nan,81925.28211
+891,0,nan,'PUPIL TRANSPORTATION SERVICES ','GENERAL FUND                  ','INSPECTOR & SERVICE TECHNICIAN','TRANSPORTATION                ','TERMINAL LEAVE VACATION       ',nan,nan,nan,nan,'TERMINAL LEAVE                ',nan,nan,nan,5274.8055
+892,1,nan,'Instruction','General Fund','T-HS ENGLISH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,52964.0189
+893,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',"'ASST COACH,NVFB'",'School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,2492.708905
+894,nan,nan,'ELPA - PRESCHOOL PROG',nan,"'Teacher, Elementary '",nan,'EMPLOYER PD MED CONTRIBUTION','PROFESSIONAL-INSTRUCTIONAL','EARLY CHILDHOOD','ITEMGD PRESCHOOL PROGRAM',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,252.19
+895,nan,nan,'Instruction','General Fund','TRAVEL','School ','Employee Allowance',nan,'Accelerated Education',nan,'Support NI-AU (Needs Improvement-Academically Unacceptable)',nan,nan,nan,nan,256.0059176
+896,nan,nan,'School Leadership','General Fund',nan,'School ','General Supplies',nan,'Special Education',nan,'Special Education',nan,nan,nan,nan,264.97
+897,nan,nan,'Office Of The Superintendent Services*','Special Trust',nan,nan,'Purchased Services',nan,nan,'Support Services - Administration','Purchased Services','ITEMK - NEW SCHOOLS ',nan,nan,nan,110499.85
+898,nan,nan,'School Leadership','General Fund','TRAVEL','School ','Employee Allowance',nan,'Undistributed',nan,'General',nan,nan,nan,nan,552.0237363
+899,nan,nan,'Instruction','Title I- Part A',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,60231.42
+900,nan,nan,'School Leadership','General Fund',nan,'School ','Extra Duty/Overtime',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1.12
+901,nan,nan,'Instruction','IDEA-B Formula',nan,'School ','General Supplies',nan,'Special Education',nan,'Special Education',nan,nan,nan,nan,279.74
+902,nan,nan,'INSTRUCTION','General Fund',nan,nan,'PURCHASED PROFESSIONAL AND TECH SVCS-OTHER FEES',nan,'Misc','MISCELLANEOUS',nan,nan,nan,nan,nan,-42.85
+903,nan,nan,'IMPROVEMENT OF INSTR SERV','General Fund',nan,nan,'DUES AND FEES',nan,'STAFF DEVELOPMENT','STAFF DEVELOPMENT',nan,nan,nan,nan,nan,496.59
+904,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',nan,'School ','General Supplies',nan,'Athletics and Related',nan,'Girls Track',nan,nan,nan,nan,1300.23
+905,nan,nan,'EMPLOYEE RETIREMENT',nan,"'Teacher, Elementary '",nan,'RETIREMENT CONTRIB.','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,720.98
+906,1,nan,'Health Services','General Fund','CLER STAFF COOR','Health Services','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,41646.07764
+907,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Teachers','CCOACH CERT TCHRACCT','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',4961.33
+908,nan,nan,'ELA E-TEACHING SHELTERED ENG',nan,"'Teacher, Secondary (High) '",nan,'EMPLOYER PD MED CONTRIBUTION','PROFESSIONAL-INSTRUCTIONAL','GENERAL HIGH SCHOOL EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,503.43
+909,0.5,nan,'Curriculum & Instructional Staff Development','Literacy Initiative (Effective ','INSTRUCT COACH','School ','Professional Salaries',nan,'Accelerated Education',nan,'Campus Equity',nan,nan,nan,nan,27717.5434
+910,0.5,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','LSSP','Special Ed Evaluation Services','Professional Salaries',nan,'Special Education',nan,'General',nan,nan,nan,nan,32995.70988
+911,1,nan,'Instruction','General Fund','T-EL/SE ELY CHI','School ','Professional Salaries',nan,'Special Education',nan,'General',nan,nan,nan,nan,53549.63209
+912,nan,nan,'IMPROVEMENT OF INSTR SERV','Title II',nan,'PROF. LEARNING','PURCHASED PROFESSIONAL AND TECH SVCS-OTHER FEES',nan,"'Title II-A, Improving Teacher Quality'",'TITLE II-A-IMPROVING TEACHER QUALITY',nan,nan,nan,nan,nan,125.84
+913,0.004310345,nan,"'TITLE II,D'",nan,"'Teacher, Short Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','INSTRUCTIONAL STAFF TRAINING','FEDERAL GDPG FUND - FY ',nan,'INSTRUCTIONAL STAFF',nan,'Regular',nan,110.0179385
+914,nan,nan,'School Leadership','Campus Activity Funds',nan,'School ','Miscellaneous Operating Costs',nan,'Undistributed',nan,'Food - Hospitality',nan,nan,nan,nan,3143.38
+915,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,'Music Lab',nan,nan,nan,nan,409.31
+916,nan,nan,'Instruction','General Fund',nan,'School ','Career Ladder',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,1638.867677
+917,nan,nan,'SPECIAL ED. - MILD/MODERATE',nan,'Teacher',nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','SPECIAL EDUCATION-CONVERSION','GENERAL FUND',nan,'SPECIAL EDUCATION',nan,'Regular',nan,1189.39
+918,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'Independence','Miscellaneous Contracted Srvcs',nan,'Undistributed',nan,'Police Dept Courier Srvc',nan,nan,nan,nan,1827.12
+919,nan,nan,'NON-PROJECT',nan,"'Teacher, Librarian Elem '",nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-92.16
+920,1,nan,nan,'General Fund','Teacher-High School',nan,nan,'HS MATH ','HIGH SCHOOL GENERAL EDUCATION PROGRAM 9-12',nan,nan,nan,nan,nan,nan,78316.35
+921,0.93,nan,'EXCEPTIONAL                   ','GENERAL FUND                  ',"'TEACHER ASSISTANT, ID         '",'School ','PARA PROFESSIONAL             ',nan,nan,nan,nan,nan,nan,nan,nan,18785.48691
+922,nan,'Custodial Department','Facilities Maintenance And Operations','General Operating Fund','CUSTODIAN REGULAR','School ','Extra Duty Pay/Overtime For Support Personnel','HEAD CUS REG SIZE ELEM ','Undistributed','Operations','Extra Duty Pay/Overtime For Support Personnel','OVERTIME',nan,nan,nan,135.9
+923,nan,'Legal Department / Board','General Administration','General Operating Fund',nan,'Legal Department - Tax Collection Division','General Supplies',nan,'Undistributed',nan,'Capital Supplies ( Unit Cost  and > ',nan,nan,nan,nan,28.64
+924,nan,nan,'NON-PROJECT',nan,'Psychologist ',nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-288.16
+925,nan,nan,nan,nan,'FOOTBALL COACH ASSIS',nan,'Coaching Supplement',nan,nan,nan,nan,nan,nan,nan,nan,3843.52
+926,0.138095238,nan,'TITLE I A - ARRA',nan,'Reading & Writing Asst ',nan,'SALARIES OF PART TIME EMPLOYEE','PARAPROFESSIONAL','GENERAL ELEMENTARY EDUCATION','ARRA - STIMULUS',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,3023.55206
+927,nan,nan,'Instruction','General Fund','TRAVEL','School ','Employee Allowance',nan,'Basic Educational Services',nan,'Choral Music',nan,nan,nan,nan,256.3559176
+928,0.259014689,nan,'SPECIAL EDUCATION - ITINERANT',nan,"'Teacher, Itinerant '",'SPECIAL EDUCATION','SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','SPECIAL EDUCATION-VISION','GENERAL FUND',nan,'SPECIAL EDUCATION','SPEECH & LANGUAGE','n/a',nan,10573.29141
+929,nan,nan,'SPECIAL EDUCATION - ITINERANT',nan,'Speech Language Pathologst ','SPECIAL EDUCATION','EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','SPECIAL ED-S/L-CHILD FIND','GENERAL FUND',nan,'SPECIAL EDUCATION','SPEECH & LANGUAGE','n/a',nan,1055.45
+930,nan,nan,'SUMMER LEADERSHIP - PRINCIPALS',nan,'(blank)','CHIEF ACADEMIC OFFICER','OTHER SUPPLIES','UNDESIGNATED','SUPPORT SERVICES-SCHOOL ADMIN','DISTRICT SPECIAL REVENUE FUNDS',nan,'SCHOOL ADMINISTRATION',nan,'n/a',nan,43704.3
+931,0.8125,nan,'Student Transportation','General Fund','BUS DRIVER','Transportation Office','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,25989.53201
+932,nan,'All Campus Payroll','Instruction','General Operating Fund',"'SPECIAL ED, PHYSICAL THERAPIST'",'School ','Employee Allowances','OCCUPATIONAL/PHYSICAL THERP','Services To Students With Disabilities (Special Education)','Operations','Travel Allowances','TRAVEL',nan,nan,nan,1355.462926
+933,1,nan,'Plant Maintenance & Operations','General Fund','CUSTODIAN I','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,31813.05045
+934,1,nan,'General Administration','General Fund','H/R TECH II','Human Resources','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,48893.13334
+935,nan,nan,'Instruction','General Fund',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'Accelerated Education',nan,'Stud Support',nan,nan,nan,nan,1092.888451
+936,nan,nan,'Other Special *','Title I - Disadvantaged Children/Targeted Assistance',nan,nan,'Other Awards and Prizes',nan,nan,'Special Instruction','Awards And Prizes *','TITLE I ',nan,nan,nan,-848.31
+937,nan,'Instruction And Curriculum','Instruction',"'""Title  Part A Improving Basic Programs""'","'TEACHER, REGULAR'",'School ','Salaries And Wages For Teachers And Other Professi','TEACHER BACHELOR',"'""Title I, Part A Schoolwide Activities Related To State Comp'","'""Title  Part A Improving Basic Programs""'",'Extended Day','MISCELLANEOUS ',nan,nan,nan,75.94
+938,nan,'Athletic Department','Extracurricular Activities','General Operating Fund',"'TEACHER, REGULAR'",'Unallocated','Extra Duty Pay/Overtime For Support Personnel','ATHLETIC OPTIONAL PAY','Athletics And Related Activities','Operations','Extra Duty Pay/Overtime For Support Personnel','GAME WORK',nan,nan,'Game Workers',46.8173328
+939,0.5,nan,'Community Services','Title I- Part A','PARENT SUP SPEC','School ','Salaries for Support Personnel',nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,20302.09884
+940,1,nan,'Instruction','General Fund','T-EL 3RD BIL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,53438.08022
+941,nan,nan,'Instruction','General Fund',nan,'Assoc Superintendent-High Schools','Textbooks ',nan,'Undistributed',nan,'Early College',nan,nan,nan,nan,7452.39
+942,nan,nan,'Food Services',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'School ','Equipment Maintenance Repairs',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1512.85
+943,nan,nan,'Instruction','General Fund','NATIONAL BOARD','School ','Extra Duty/Signing Bonus Pay',nan,'Basic Educational Services',nan,'National Board',nan,nan,nan,nan,2185.530599
+944,nan,nan,'Instruction','General Fund',nan,'Early Childhood','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,1.13
+945,nan,nan,'Instruction','General Fund',nan,'School ','Substitute Teachers',nan,'Special Education',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,-0.36
+946,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,1294.565865
+947,nan,nan,'Instruction','Title I- Part A',nan,'School ',nan,nan,'State Comp.Ed.-Support Title I Campuses',nan,'General',nan,nan,nan,nan,4999.41
+948,nan,nan,'Cocurricular & Extra Curricular Activities','Athletics',"'HC, SOFTBALL'",'School ','Extra Duty/Signing Bonus Pay',nan,'Athletics and Related',nan,'General',nan,nan,nan,nan,6718.183474
+949,nan,nan,'Disadvantaged Youth *','Title I - Disadvantaged Children/Targeted Assistance',nan,nan,'Regular *',nan,nan,'Special Instruction','Certificated Employees Salaries And Wages','ESEA TITLE I',nan,nan,nan,-76942.59
+950,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Career and Technology',nan,'Culinary Arts',nan,nan,nan,nan,5199.91
+951,nan,nan,'EXT DAY TUITION PAID KINDERGAR',nan,"'Teacher, Elementary '",nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,512.75
+952,nan,nan,'CLASS-SIZE RELIEF FUND',nan,'Teacher Secondary (Middle) ',nan,'EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','GENERAL MIDDLE/JUNIOR HIGH SCH','GENERAL FUND',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,84.58
+953,nan,'Transportation Department','Transportation','General Operating Fund',"'TRANSPORTATION, AIDE,SPEC.ED'",'Unallocated','Extra Duty Pay/Overtime For Support Personnel','BUS DRIVER AIDE','Undistributed','Operations','Extra Duty Pay/Overtime For Support Personnel','EXTRA RUN',nan,nan,'transportation - Second Runs',702.74
+954,nan,nan,'NON-PROJECT',nan,"'Teacher, Intervention '",'PERSONNEL-PAID LEAVE','EMPLOYEE BENEFITS','PROFESSIONAL-INSTRUCTIONAL','STAFF SERVICES','GENERAL FUND',nan,'CENTRAL','UNASSIGNED PERS/PAID LEAVES','n/a',nan,nan
+955,0.5,nan,'Instruction','General Fund','TCHR ASST- SP E','School ','Salaries for Support Personnel',nan,'Special Education',nan,'General',nan,nan,nan,nan,19161.7443
+956,1,nan,"'Guidance, Counseling and Evaluation Services'",'General Fund','T-HS','Learning Support Services','Professional Salaries',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,55161.88291
+957,1,nan,nan,'School Nutrition Service Fund','Technical Support Specialist III','Consolidated School Nutrition',nan,'NONE ','Misc',nan,nan,nan,nan,nan,nan,82180.26
+958,1,nan,'Instruction','General Fund','T-EL 2ND BIL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,56226.9882
+959,nan,nan,'Curriculum & Instructional Staff Development','General Fund',nan,'Educator Quality ','Misc Operating Expenses',nan,'Undistributed',nan,'General',nan,nan,nan,nan,686.25
+960,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Teachers','CCOACH CERT TCHRACCT','Instruction - Regular',nan,nan,nan,nan,nan,'Regular Instruction',8363.42
+961,nan,nan,'NON-PROJECT',nan,"'Teacher, Secondary (High) '",nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-24.97
+962,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'School ','Custodial/Maint Supplies',nan,'Undistributed',nan,"""Line Item that is paid with Campus' money""",nan,nan,nan,nan,1499.98
+963,1,'All Campus Payroll','School Leadership','General Operating Fund','SCHOOL PRINCIPAL','School ','Salaries And Wages For Teachers And Other Professi','PRINCIPAL','Undistributed','Operations','Salaries And Wages For Teachers And Other Professi','REGULAR PAY',nan,nan,'Undistributed',75809.38364
+964,nan,nan,'NON-PROJECT',nan,'Community School Instructor ',nan,'CONTRA BENEFITS','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,-22.57
+965,0.33,nan,'Instruction','General Fund','T-EL ART','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,17857.47071
+966,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund','TRANSITION FAC','School ','Extra Duty/Signing Bonus Pay',nan,'Undistributed',nan,'General',nan,nan,nan,nan,2502.900671
+967,0.023706897,nan,'UNALLOC BUDGETS/SCHOOLS',nan,"'Teacher, Short Term Sub '",nan,'SALARIES OF PART TIME EMPLOYEE','PROFESSIONAL-INSTRUCTIONAL','GENERAL ELEMENTARY EDUCATION','GENERAL FUND',nan,'REGULAR INSTRUCTION','TEACHER SUBS','Regular',nan,603.4636616
+968,1,nan,'Instruction','General Fund','T-EL 4TH','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,53189.56357
+969,nan,nan,'Instruction','General Fund','CL ','School ','Career Ladder',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,3277.845353
+970,nan,nan,'Instruction And Curriculum Development Services *','Miscellaneous State Grants',nan,nan,'Other Awards and Prizes',nan,nan,'Support Services - Instructional Staff','Awards And Prizes *','TUTORIAL GRANT ',nan,nan,nan,-361.05
+971,nan,nan,'NON-PROJECT',nan,"'Teacher,Retrd Shrt Term Sub '",'DISTRICT WIDE ORGANIZATION UNI','EMPLOYEE BENEFITS','UNDESIGNATED','UNDESIGNATED','GENERAL FUND',nan,'UNDESIGNATED',nan,'n/a',nan,14.47
+972,0.33,nan,'Instruction','General Fund',' JAPANESE','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,18414.27176
+973,nan,nan,'EMPLOYEE RETIREMENT',nan,'Nurse ',nan,'RETIREMENT CONTRIB.','UNDESIGNATED','EMPLOYEE BENEFITS','GENERAL FUND',nan,'EMPLOYEE BENEFITS',nan,'n/a',nan,402.88
+974,nan,nan,'Instruction','General Fund',nan,'School ','Career Ladder',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,1638.427677
+975,1,nan,'Plant Maintenance & Operations','General Fund','CUSTODIAN I','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,29017.95929
+976,0,nan,nan,'General Purpose School',nan,nan,'Personal Services - Education Assistants','SUBSTITUTE TEACHER','Support - Regular Instruction',nan,nan,nan,nan,nan,'Regular Instructional Support',563.47
+977,0,'INSTRUCTIONAL COACHING',nan,'School Projects',nan,'District Wide Resources','Personal Services - Teachers','TIME CARD CERTIFIEDAddl','Support - Regular Instruction',nan,nan,'First Class',nan,nan,'First Class',279.81
+978,0.33,nan,'Instruction','General Fund','T-HS PHYS/CHEM','School ','Professional Salaries',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,17634.94207
+979,nan,nan,'IMPROVEMENT OF INSTR SERV','General Fund',nan,'ADMIN. SERVICES','TRAVEL - EMPLOYEES',nan,'Misc','MISCELLANEOUS',nan,nan,nan,nan,nan,175.36
+980,nan,nan,'Instruction','IDEA-B Preschool',nan,'Special Education','Salary Adjustments',nan,'Special Education',nan,'General',nan,nan,nan,nan,334314.42
+981,1,nan,nan,nan,'Teacher',nan,nan,nan,nan,'LOCAL',nan,nan,'GENERAL EDUCATION',nan,nan,64615.43463
+982,nan,nan,'Cocurricular & Extra Curricular Activities','General Fund',nan,'School ','Field Trips',nan,'Undistributed',nan,'Cheerleading',nan,nan,nan,nan,349.6
+983,1,nan,'Instruction','General Fund','T-HS THEAT/DRAM','School ','Professional Salaries',nan,'Basic Educational Services',nan,'General',nan,nan,nan,nan,52963.5089
+984,nan,nan,'NON-PROJECT',nan,"'School Counselor, High Sch '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GUIDANCE SERVICES','GENERAL FUND',nan,'STUDENTS',nan,'Regular',nan,3822.06696
+985,nan,nan,'Instruction','General Fund','BAND DIRECTOR','School ','Extra Duty/Signing Bonus Pay',nan,'Accelerated Education',nan,'General',nan,nan,nan,nan,10277.98521
+986,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'School ',"'Water,Wastewater, Sanitation'",nan,'Undistributed',nan,'General',nan,nan,nan,nan,15490.87
+987,0,nan,'PREKINDERGARTEN               ','GENERAL FUND                  ','SUB TEACHER ALL               ','School ','OTHER PERSONAL SERVICES       ',nan,nan,nan,nan,'VPK                           ',nan,nan,nan,38.3
+988,nan,nan,'Instruction','General Fund',nan,'School ','Career Ladder',nan,'Special Education',nan,'General',nan,nan,nan,nan,1638.477677
+989,nan,nan,'Plant Maintenance & Operations',"""Nat'l Schl Breakfast & Lunch Prog.""",nan,'Food Service',"'Water,Wastewater, Sanitation'",nan,'Undistributed',nan,'General',nan,nan,nan,nan,51424.6
+990,1,nan,'Instruction','General Fund','T-EL 5TH BIL','School ','Professional Salaries',nan,'Bilingual Education',nan,'General',nan,nan,nan,nan,52514.7162
+991,0.375010445,nan,'TITLE I',nan,"'Teacher, Intervention '",nan,'SALARIES OF REGULAR EMPLOYEES','PROFESSIONAL-INSTRUCTIONAL','GENERAL K-8 EDUCATION','FEDERAL GDPG FUND - FY ',nan,'REGULAR INSTRUCTION',nan,'Regular',nan,29149.94365
+992,1,nan,'Plant Maintenance & Operations','General Fund','HEAD CUST III','School ','Salaries for Support Personnel',nan,'Undistributed',nan,'General',nan,nan,nan,nan,50001.63468
+993,nan,nan,'School Leadership','General Fund',nan,'School ','Extra Duty/Overtime',nan,'Undistributed',nan,'General',nan,nan,nan,nan,-0.53
+994,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'South Bus Terminal (New Bus Terminal)','Electricity',nan,'Undistributed',nan,'General',nan,nan,nan,nan,28300.66
+995,nan,nan,'Community Services',' Century Community Learning',nan,'School ','Reading Materials including Library Books',nan,'Accelerated Education',nan,'Cycle  (used for grants)',nan,nan,nan,nan,123.61
+996,nan,nan,'BASIC (FEFP K-12)             ','GENERAL FUND                  ',"'TEACHER, LANG ARTS-MIDDLE     '",'School ','SUPPLIES                      ',nan,nan,nan,nan,'TEACHER LEAD                  ',nan,nan,nan,183.99
+997,nan,nan,'Instruction','General Fund',nan,'School ','General Supplies',nan,'Basic Educational Services',nan,'Drama/Theater Arts',nan,nan,nan,nan,2500.22
+998,nan,nan,'Plant Maintenance & Operations','General Fund',nan,'School ',"'Water,Wastewater, Sanitation'",nan,'Undistributed',nan,'General',nan,nan,nan,nan,35747.51
+999,nan,nan,'Instruction','General Fund',nan,'School ','Extra Duty/Signing Bonus Pay',nan,'Basic Educational Services',nan,'Community Training and Assistance Center',nan,nan,nan,nan,57897.29791
